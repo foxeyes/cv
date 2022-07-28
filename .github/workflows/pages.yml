@@ -33,6 +33,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v1
       - name: actions/setup-node@v1
+        uses: actions/setup-node@v1
         with:
           node-version: '18'
       - name: Build
