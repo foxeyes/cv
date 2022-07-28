@@ -6,6 +6,9 @@ import { marked } from 'marked';
 import PROJECT from './project.js';
 
 export function build() {
+  if (!fs.existsSync(PROJECT.outDir)) {
+    fs.mkdirSync(PROJECT.outDir);
+  }
   PROJECT.entries.forEach(async (entry) => {
     let md = fs.readFileSync(entry.content).toString();
     let content = marked(md);

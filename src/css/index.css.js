@@ -65,10 +65,17 @@ code {
 }
 
 section {
+  display: flex;
+  justify-content: flex-end;
   padding: 40px;
 }
 section[pulse] {
   background-color: var(--clr-2);
   color: var(--clr-1);
+  justify-content: flex-start;
+}
+col-css {
+  display: block;
+  max-width: var(--col-w);
 }
 `;

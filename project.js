@@ -1,4 +1,5 @@
 export default {
+  outDir: './dist',
   entries: [
     {
       template: './src/tpl/home.htm.js',
