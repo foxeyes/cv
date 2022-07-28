@@ -16,6 +16,7 @@ export default /*html*/ `
     {{CONTENT}}
   </section>
   <section pulse>
+    <h2>Pulse</h2>
   </section>
 </body>
 </html>
