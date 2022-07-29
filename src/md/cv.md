@@ -37,6 +37,8 @@ Worked in various big and small tech companies and startups.
 - Largest company - ABBY LS (UX engineer, frontend developer)
 - Most significant participation as employee - Uploadcare (Lead frontend engineer)
 - Most ambitious - Arrival (Lead frontend engineer)
+- Most challenging - QUESTIONSTAR (Lead frontend/UX engineer)
+- Most tricky - Dressformer (CTO, R&D engineer)
 
 ### Profiles
 - [GitHub](https://github.com/foxeyes)

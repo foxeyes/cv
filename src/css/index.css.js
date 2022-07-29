@@ -119,12 +119,19 @@ pulse-item-css img {
   width: 120px;
   height: 120px;
 }
+pulse-item-css a {
+  display: block;
+  margin-top: var(--gap-mid);
+}
+
 a {
   color: currentColor;
 }
+
 p {
   margin: 0;
 }
+
 blockquote {
   display: block;
   margin: 0;
