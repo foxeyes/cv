@@ -37,7 +37,7 @@ export function build() {
     let tpl = await importFresh(entry.template);
     let css = await importFresh(entry.styles);
     let pulse = '';
-    let pulseMdArr = findFiles('./src/', ['.md'], ['cv.md']);
+    let pulseMdArr = findFiles('./src/', ['.md'], ['cv.md']).reverse();
     for (let i = 0; i < pulseMdArr.length; i++) {
       let mdPath = pulseMdArr[i];
       let fileStr = fs.readFileSync(mdPath).toString().trim();
