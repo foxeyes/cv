@@ -58,6 +58,8 @@ pulse-item-css {
 }
 pulse-item-css [date] {
   margin-bottom: var(--gap-mid);
+  opacity: .7;
+  font-style: italic;
 }
 pulse-item-css [text] {
   margin-left: var(--gap-max);

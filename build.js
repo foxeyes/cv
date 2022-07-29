@@ -4,6 +4,7 @@ import { applyData, cssMin } from '@jam-do/jam-tools/iso/index.js';
 import { marked } from 'marked';
 import emptySvg from './src/svg/empty-img.svg.js';
 import { importFresh } from './importFresh.js';
+import hljs from 'highlight.js';
  
 const MD_META_OPEN_TOKEN = '```json';
 const MD_META_CLOSE_TOKEN = '```';
@@ -25,6 +26,29 @@ const CFG = {
   ],
 };
 
+marked.setOptions({
+  highlight: (code, lang, callback) => {
+    code = hljs.highlight(code, {language: lang}).value;
+    callback && callback(undefined, code);
+  }
+});
+
+/**
+ * 
+ * @param {String} md 
+ * @returns 
+ */
+function md2html(md) {
+  return new Promise((resolve, reject) => {
+    marked.parse(md, (err, html) => {
+      if (err) {
+        reject();
+      }
+      resolve(html);
+    });
+  });
+}
+
 export function build() {
   if (!fs.existsSync(CFG.pulseDir)) {
     fs.mkdirSync(CFG.pulseDir, {
@@ -33,7 +57,7 @@ export function build() {
   }
   CFG.entries.forEach(async (entry) => {
     let md = fs.readFileSync(entry.content).toString();
-    let content = marked(md);
+    let content = await md2html(md);
     let tpl = await importFresh(entry.template);
     let css = await importFresh(entry.styles);
     let pulse = '';
@@ -63,7 +87,7 @@ export function build() {
         let pulseDocHtml = applyData(pulseDocTpl, {
           TITLE: meta.title,
           CSS: cssMin(pulseDocCss),
-          CONTENT: marked(fileStr),
+          CONTENT: await md2html(fileStr),
         });
         fs.writeFileSync('./dist/' + pulsePageHref, pulseDocHtml);
       }

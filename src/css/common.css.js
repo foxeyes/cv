@@ -42,6 +42,31 @@ code {
   border: 1px solid currentColor;
   border-radius: var(--r1);
 }
+code .hljs-string {
+  color: rgb(79, 243, 255);
+}
+code .hljs-comment {
+  color: rgb(110, 190, 110);
+  font-style: italic;
+}
+code .hljs-attr {
+  color: rgb(183, 249, 255);
+}
+code .hljs-function {
+  color: rgb(239, 235, 149);
+}
+code .hljs-variable {
+  color: rgb(235, 146, 235);
+}
+code .hljs-title {
+  color: rgb(255, 236, 236);
+}
+code .hljs-property {
+  color: rgb(150, 189, 213);
+}
+code .hljs-keyword {
+  color: rgb(254, 165, 176);
+}
 
 a {
   color: currentColor;
