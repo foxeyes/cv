@@ -17,7 +17,9 @@ export default /*html*/ `
   </section>
   <section pulse>
     <col-css>
-      <h2>Pulse</h2>
+      <h2>-^v- Pulse</h2>
+      {{PULSE}}
+      <div>&nbsp;</div>
     </col-css>
   </section>
 </body>

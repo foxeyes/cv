@@ -1,2 +1,17 @@
-node_modules
+## editors
+/.idea
+/.vscode
+
+## system files
+.DS_Store
+
+## npm
+/node_modules/
+/npm-debug.log
+
+## dev
+TMP
 dist
+
+## runtime store
+rtstore
