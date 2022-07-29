@@ -9,6 +9,10 @@ let svg = /*svg*/ `
 let dataSvg = 'data:image/svg+xml;base64,' + btoa(svg);
 
 export default /*css*/ `
+::-webkit-scrollbar {
+  display: none;
+}
+
 :root {
   --clr-1: #ccc;
   --clr-2: #000;
@@ -80,13 +84,14 @@ section {
   display: flex;
   justify-content: flex-end;
   padding: 40px;
+  max-height: 100vh;
+  overflow: auto;
+  scrollbar-width: none;
 }
 section[pulse] {
   background-color: var(--clr-2);
   color: var(--clr-1);
   justify-content: flex-start;
-  max-height: 100vh;
-  overflow: auto;
 }
 col-css {
   display: block;
@@ -94,7 +99,8 @@ col-css {
   max-width: var(--col-w);
 }
 pulse-item-css {
-  display: block;
+  display: grid;
+  grid-template-columns: min-content auto;
   background-color: rgba(255, 255, 255, .1);
   padding: var(--gap-max);
   margin-bottom: var(--gap-mid);
@@ -102,6 +108,9 @@ pulse-item-css {
 }
 pulse-item-css [date] {
   margin-bottom: var(--gap-mid);
+}
+pulse-item-css [text] {
+  margin-left: var(--gap-max);
 }
 
 pulse-item-css img {

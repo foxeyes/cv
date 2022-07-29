@@ -13,7 +13,10 @@ export default /*html*/ `
 </head>
 <body>
   <section>
-    <col-css>{{CONTENT}}</col-css>
+    <col-css>
+      {{CONTENT}}
+      <div>&nbsp;</div>
+    </col-css>
   </section>
   <section pulse>
     <col-css>
