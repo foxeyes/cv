@@ -34,7 +34,7 @@ export async function load(url, context, defaultLoad) {
 }
 ```
 
-Use the `--loader` parameter:
+Use the `--loader` parameter to start:
 ```bash
 node --loader ./loader.js ./my-app.js
 ```
