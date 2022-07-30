@@ -11,6 +11,13 @@ export default /*html*/ `
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
   <style>{{CSS}}</style>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y09PSX0KFE"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-Y09PSX0KFE');
+  </script>
 </head>
 <body>
   <section>
