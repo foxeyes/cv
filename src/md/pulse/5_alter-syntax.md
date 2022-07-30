@@ -13,9 +13,21 @@ Now it supports additional (alternative) syntax for the template bindings.
 
 Documentation and examples will be updated ASAP.
 
-Here is an example:
+
+Here is an template example:
+```html
+<div set 
+  -onclick="click"
+  -inner_html="html"
+  -style.background-color="cssBgColor"
+  -style.color="cssColor"></div>
+<div set -text-content="text"></div>
+```
+
+And the component code:
 ```js
 import { BaseComponent } from '../../core/BaseComponent.js';
+import TEMPLATE from './template.html'; // using webpack HTML loader
 
 class MyApp extends BaseComponent {
 
@@ -31,13 +43,6 @@ class MyApp extends BaseComponent {
 
 }
 
-MyApp.template = /*html*/ `
-<div set 
-  -onclick="click"
-  -inner_html="html"
-  -style.background-color="cssBgColor"
-  -style.color="cssColor"></div>
-<div set -text-content="text"></div>
-`;
+MyApp.template = TEMPLATE;
 MyApp.reg('my-app');
 ```
