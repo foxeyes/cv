@@ -36,21 +36,12 @@ html, body {
 * {
   box-sizing: border-box;
 }
-code:not([class]) {
-  background-color: var(--clr-2);
-  color: var(--clr-1);
-}
-code:not([class]):before, code:not([class]):after {
-  content: '_';
-  opacity: 0;
-  user-select: none;
-}
+
 code[class] {
   display: block;
   padding: var(--gap-max);
   background-color: var(--clr-2);
   color: #fff;
-  border: 1px solid currentColor;
   border-radius: var(--r1);
   overflow: auto;
 }
