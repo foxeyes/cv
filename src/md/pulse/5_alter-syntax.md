@@ -12,19 +12,18 @@
 Now it supports additional (alternative) syntax for the template bindings. 
 
 Documentation and examples will be updated ASAP.
-
-
-Here is an template example:
+### Template example:
 ```html
 <div set 
   -onclick="click"
   -inner_html="html"
   -style.background-color="cssBgColor"
-  -style.color="cssColor"></div>
+  -style.color="cssColor">
+</div>
 <div set -text-content="text"></div>
 ```
 
-And the component code:
+### And the component code:
 ```js
 import { BaseComponent } from '../../core/BaseComponent.js';
 import TEMPLATE from './template.html'; // using webpack HTML loader

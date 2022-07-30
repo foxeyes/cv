@@ -39,6 +39,7 @@ Worked in various big and small tech companies and startups.
 - Most ambitious - Arrival (Lead frontend engineer)
 - Most challenging - QUESTIONSTAR (Lead frontend/UX engineer)
 - Most tricky - Dressformer (CTO, R&D engineer)
+- Most fun - ZIQ Design (Art director)
 
 ### Profiles
 - [GitHub](https://github.com/foxeyes)
