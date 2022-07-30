@@ -48,6 +48,17 @@ col-css {
   width: 100%;
   max-width: var(--col-w);
 }
+header {
+  display: flex;
+  align-items: center;
+}
+header [fox] {
+  width: 200px;
+  height: 500px;
+  background-image: url("https://ucarecdn.com/6a90e4f5-0860-4cce-80a5-c378de90b1ed/-/preview/500x500/-/quality/smart/");
+  background-position: center center;
+}
+
 pulse-item-css {
   display: grid;
   grid-template-columns: min-content auto;
@@ -69,6 +80,7 @@ pulse-item-css img {
   display: block;
   background-color: var(--clr-a2);
   width: 120px;
+  min-width: 120px;
   height: 120px;
 }
 pulse-item-css a {

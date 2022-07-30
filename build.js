@@ -11,6 +11,7 @@ const MD_META_CLOSE_TOKEN = '```';
 const TMP_SPLITTER = '---|||---SPLIT---|||---';
 
 const CFG = {
+  imgDir: './dist/img',
   pulseDir: './dist/pulse',
   entries: [
     {

@@ -1,5 +1,5 @@
 import { URL } from 'url';
-import { readFile } from "fs/promises";
+import { readFile } from 'fs/promises';
 
 /**
  * 

@@ -1,10 +1,3 @@
-# (^_^) Sergey Matiyasevich
-## a.k.a. Alex Sova @,@
-
-### Full-stack web developer
-### R&D engineer / Solution architect
-### Jamstack + web-components enthusiast
-
 > More than 15 years of experience in web development, design and project management
 ### Skills & Interests:
 - Widgets & micro-frontend architecture (meta-applications)

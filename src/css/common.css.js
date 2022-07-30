@@ -36,7 +36,16 @@ html, body {
 * {
   box-sizing: border-box;
 }
-code {
+code:not([class]) {
+  background-color: var(--clr-2);
+  color: var(--clr-1);
+}
+code:not([class]):before, code:not([class]):after {
+  content: '_';
+  opacity: 0;
+  user-select: none;
+}
+code[class] {
   display: block;
   padding: var(--gap-max);
   background-color: var(--clr-2);
@@ -77,6 +86,10 @@ ul > li::before {
   color: currentColor;
   text-shadow: 0 0px 13px currentColor;
   margin-right: var(--gap-mid);
+}
+
+img {
+  max-width: 100%;
 }
 
 ${await importFresh('./src/css/hl.css')}
