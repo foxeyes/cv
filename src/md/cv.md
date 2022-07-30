@@ -54,9 +54,9 @@ Worked in various big and small tech companies and startups.
 if (You.gotQuestions) {
   mailTo('alex.sova@pm.me');
 }
+
+// Open to discuss ambitious projects, 
+// able to suggest non-ordinary solutions.
+
+// Remote collaboration only.
 ```
-
-
-> Open to discuss ambitious projects, able to suggest non-ordinary solutions. 
->
-> Remote collaboration only.

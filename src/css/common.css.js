@@ -43,6 +43,7 @@ code {
   color: #fff;
   border: 1px solid currentColor;
   border-radius: var(--r1);
+  overflow: auto;
 }
 
 a {
