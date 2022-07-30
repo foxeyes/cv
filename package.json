@@ -5,7 +5,7 @@
   "main": "build.js",
   "type": "module",
   "scripts": {
-    "build": "node ./build.js",
+    "build": "node --loader ./loader.js ./build.js",
     "watch": "node --loader ./loader.js ./watch.js"
   },
   "author": "alex.sova@pm.me",
