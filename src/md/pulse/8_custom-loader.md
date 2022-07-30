@@ -18,7 +18,7 @@ import { URL } from 'url';
 import { readFile } from 'fs/promises';
 
 export async function load(url, context, defaultLoad) {
-  let checkUrl = url.split('?')[0]; // Cutting the possible search parameters
+  const checkUrl = url.split('?')[0]; // Cutting the possible search parameters
   if (checkUrl.endsWith('.css') 
       || checkUrl.endsWith('.html') 
       || checkUrl.endsWith('.htm') 
