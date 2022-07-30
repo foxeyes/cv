@@ -75,7 +75,7 @@ export function build() {
         fileStr = fileParts[1];
       }
       if (meta) {
-        let pulsePageHref = `pulse/page-${i}.html`;
+        let pulsePageHref = `pulse/${meta.title.toLowerCase().replaceAll(' ', '_').replaceAll('.', '-')}.html`;
         meta.href = meta.link || pulsePageHref;
         if (!meta.image) {
           meta.image = emptySvg;
