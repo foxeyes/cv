@@ -51,7 +51,7 @@ header {
 header [fox] {
   width: 200px;
   height: 500px;
-  background-image: url("https://ucarecdn.com/6a90e4f5-0860-4cce-80a5-c378de90b1ed/-/preview/500x500/-/quality/smart/-/format/auto/");
+  background-image: url("https://ucarecdn.com/6a90e4f5-0860-4cce-80a5-c378de90b1ed/-/resize/500x500/-/format/auto/");
   background-position: center center;
 }
 
