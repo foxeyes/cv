@@ -8,7 +8,7 @@ body {
   position: relative;
   border-left: var(--gap-mid) solid var(--clr-a1);
 }
-body::before {
+body::before, body::after {
   content: '';
   display: block;
   position: absolute;
@@ -16,23 +16,19 @@ body::before {
   left: 0;
   bottom: 0;
   width: var(--gap-mid);
+}
+body::before {
   background-color: var(--clr-a2);
 }
 body::after {
-  content: '';
-  display: block;
-  position: absolute;
-  top: 0;
   left: var(--gap-mid);
-  bottom: 0;
-  width: var(--gap-mid);
   background-color: var(--clr-a3);
 }
 
 section {
   display: flex;
   justify-content: flex-end;
-  padding: 40px;
+  padding: var(--gap-max);
   max-height: 100vh;
   overflow: auto;
   scrollbar-width: none;
@@ -86,5 +82,37 @@ pulse-item-css img {
 pulse-item-css a {
   display: block;
   margin-top: var(--gap-mid);
+}
+
+@media screen and (max-width: 800px) {
+  body {
+    display: block;
+    border-left: none;
+  }
+  body::before, body::after {
+    background-color: transparent;
+  }
+  section {
+    max-height: unset;
+    padding: var(--gap-mid);
+  }
+  pulse-item-css {
+    display: flex;
+    flex-flow: column;
+  }
+  pulse-item-css [text] {
+    margin-left: 0;
+    margin-top: var(--gap-max);
+  }
+}
+@media screen and (max-width: 1000px) {
+  pulse-item-css {
+    display: flex;
+    flex-flow: column;
+  }
+  pulse-item-css [text] {
+    margin-left: 0;
+    margin-top: var(--gap-max);
+  }
 }
 `;

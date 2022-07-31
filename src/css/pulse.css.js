@@ -9,7 +9,6 @@ body {
   display: flex;
   justify-content: center;
   background-color: var(--clr-2);
-  padding: var(--gap-max);
 }
 section {
   width: 100%;
@@ -44,5 +43,8 @@ code:not([class]):before, code:not([class]):after {
 }
 blockquote {
   background-color: var(--clr-shade);
+}
+@media screen and (max-width: 1000px) {
+  
 }
 `;

@@ -19,6 +19,7 @@ export default /*css*/ `
   --gap-min: 2px;
   --gap-mid: 10px;
   --gap-max: 20px;
+  --gap-max: 40px;
 
   --r1: 6px;
 
@@ -81,6 +82,12 @@ ul > li::before {
 
 img {
   max-width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+  :root {
+    --gap-max: 20px;
+  }
 }
 
 ${await importFresh('./src/css/hl.css')}
