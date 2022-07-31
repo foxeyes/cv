@@ -9,4 +9,4 @@
 ```
 ![CV-fox illustration](https://ucarecdn.com/6a90e4f5-0860-4cce-80a5-c378de90b1ed/-/resize/900x900/-/format/auto/)
 
-> [MagicaVoxel](https://ephtracy.github.io/) - one of the best tools for making illustrations for your web-pages without spending a time.
+> [MagicaVoxel](https://ephtracy.github.io/) - one of the best tools for making quick illustrations for your web-pages.
