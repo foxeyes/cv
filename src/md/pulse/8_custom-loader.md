@@ -2,7 +2,7 @@
 {
   "date": "30-07-2022",
   "title": "Custom node ESM loader",
-  "summary": "Simple approach to load your text assets in your code as JS-modules.",
+  "summary": "Simple approach to load your text assets into your code as JS-modules.",
   "image": "",
   "link": ""
 }
