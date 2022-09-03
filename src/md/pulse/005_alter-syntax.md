@@ -3,7 +3,7 @@
   "date": "08-07-2022",
   "title": "Symbiote.js v1.9.0 is released",
   "summary": "Now it supports additional (alternative) syntax for the template bindings. Documentation and examples will be updated ASAP.",
-  "image": "",
+  "image": "https://ucarecdn.com/658b8efe-be77-4574-992f-3179b9219822/-/resize/200x200/-/format/auto/",
   "link": ""
 }
 ```

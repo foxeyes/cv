@@ -3,7 +3,7 @@
   "date": "30-07-2022",
   "title": "Custom node ESM loader",
   "summary": "Simple approach to load your text assets into your code as JS-modules.",
-  "image": "",
+  "image": "https://ucarecdn.com/9e21204c-9061-41e2-a6f4-bc7c5101d767/-/resize/200x200/-/format/auto/",
   "link": ""
 }
 ```
