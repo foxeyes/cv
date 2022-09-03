@@ -45,7 +45,7 @@ Worked in various big and small tech companies and startups.
 
 ```js
 if (You.gotQuestions) {
-  mailTo('alex.sova@pm.me');
+  mailTo('alex.sova.jam@gmail.com');
 }
 
 // Open to discuss ambitious projects, 
