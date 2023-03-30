@@ -28,6 +28,7 @@ export default /*html*/ `
         <div>
           <h1>Sergey Matiyasevich</h1>
           <h3>Tech lead / Full-stack / R&D</h3>
+          <h3>43 yo</h3>
         </div>
       </header>
       {{CONTENT}}
