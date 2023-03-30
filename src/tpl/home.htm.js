@@ -27,10 +27,7 @@ export default /*html*/ `
         <div fox></div>
         <div>
           <h1>Sergey Matiyasevich</h1>
-          <h2>a.k.a. Alex Sova</h2>
-          <h3>Full-stack web developer</h3>
-          <h3>R&D engineer / Solution architect</h3>
-          <h3>Jamstack + web-components enthusiast</h3>
+          <h3>Tech lead / Full-stack / R&D</h3>
         </div>
       </header>
       {{CONTENT}}

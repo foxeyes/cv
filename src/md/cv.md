@@ -1,47 +1,55 @@
-> More than 15 years of experience in web development, design and project management
-### Skills & Interests:
-- Widgets & micro-frontend architecture (meta-applications)
-- Modern web platform technologies and standards
+> More than 20 years of experience in web development, design and project management
+
+### Location
+Buenos Aires, Argentina (GMT-3)
+
+### Languages
+- English
+- Russian
+- Spanish (learning)
+
+### Skills & Expertise:
+- Team leadership
+- Modern JavaScript, TypeScript 
+- Widgets & micro-frontend architecture
+- Complex application architecture
+- Modern APIs in browsers and Node.js
+- JAMStack, SSG
+- Canvas API, SVG, WebGL
+- Web Components: Custom Elements, Shadow DOM, etc.
+- Isomorphic approaches
 - UX / UI Design
 - 2D & 3D graphics
 - Graph data structures
-- Dialog interfaces (chat-like UIs)
+- Dialog interfaces
 - 3D scanning technologies & photogrammetry
-- Team management
+- Open Source projects management
+- Engineering culture support
+- Effective coding: dependency management, resource consuming control, flexible architecture
 
-### Preferred technologies and approaches
-- JavaScript, TypeScript 
-- Custom Elements, Shadow DOM
-- CSS Custom Properties
-- Canvas API, SVG, WebGL
-- node.js
-- ESM (node.js and browser)
-- Isomorphic code (raw modules usable in node and browser both)
-- Jamstack (static assets via CDN, dynamic via APIs)
-- Minimalism, progressive complexity (simple things should stay simple)
-
-### Open source projects
-- [Symbiote.js](https://symbiotejs.org/) - library for meta-applications building
-- [IMS](https://github.com/jam-do/interactive-media-spots) - library of Interactive Media Spots
+### Open source
+- [Symbiote.js](https://symbiotejs.org/) - library for the meta-applications building
 
 ### Career
 Worked in various big and small tech companies and startups.
+- Current position - Tech lead / Solution Architect in 1Sim
 - Top position - co-founder & CEO in Megavisor
 - Largest company - ABBY LS (UX engineer, frontend developer)
-- Most significant participation as employee - Uploadcare (Lead frontend engineer)
+- Most significant participation as employee - Uploadcare (Tech lead)
 - Most ambitious - Arrival (Lead frontend engineer)
-- Most challenging - QUESTIONSTAR (Lead frontend/UX engineer)
-- Most tricky - Dressformer (CTO, R&D engineer)
+- Most challenging - QUESTIONSTAR (Lead frontend / UX engineer)
+- Most tricky - Dressformer (CTO, Tech lead)
 - Most fun - ZIQ Design (Art director)
 
 ### Profiles
 - [GitHub](https://github.com/foxeyes)
 - [LinkedIn](https://www.linkedin.com/in/sergey-matiyasevich-alex-sova/)
 - [Habr](https://habr.com/en/users/i360u/)
+
 ### Hobbies
-- Auto tourism (off-road vehicles)
+- Hiking
 - Kayaking
-- 3D printing
+- Cycling
 
 ```js
 if (You.gotQuestions) {
