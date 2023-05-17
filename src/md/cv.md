@@ -35,9 +35,9 @@ Worked in various big and small tech companies and startups:
 - Current position - Tech lead / Solution Architect in [Jam-do.org](https://jam-do.org/)
 - Top position - Co-founder & CEO in [Megavisor](https://youtu.be/6CpdVcjtZoU)
 - Largest company - ABBY LS (UX engineer, frontend developer)
-- Most significant participation as employee - Uploadcare (Tech lead)
+- Most significant participation as employee - [Uploadcare](https://uploadcare.com/) (Tech lead)
 - Most ambitious - Arrival (Lead frontend engineer)
-- Most challenging - QUESTIONSTAR (Lead frontend / UX engineer)
+- Most challenging - [QUESTIONSTAR](https://www.questionstar.com/) (Lead frontend / UX engineer)
 - Most tricky - Dressformer (CTO, Tech lead)
 - Most fun - ZIQ Design (Art director)
 
