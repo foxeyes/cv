@@ -33,7 +33,7 @@ Buenos Aires, Argentina (GMT-3)
 ### Career
 Worked in various big and small tech companies and startups:
 - Current position - Tech lead / Solution Architect in [Jam-do.org](https://jam-do.org/)
-- Top position - Co-founder & CEO in Megavisor
+- Top position - Co-founder & CEO in [Megavisor](https://youtu.be/6CpdVcjtZoU)
 - Largest company - ABBY LS (UX engineer, frontend developer)
 - Most significant participation as employee - Uploadcare (Tech lead)
 - Most ambitious - Arrival (Lead frontend engineer)
