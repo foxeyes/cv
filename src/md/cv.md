@@ -31,9 +31,9 @@ Buenos Aires, Argentina (GMT-3)
 - [Symbiote.js](https://symbiotejs.org/) - library for the meta-applications building
 
 ### Career
-Worked in various big and small tech companies and startups.
-- Current position - Tech lead / Solution Architect in 1Sim
-- Top position - co-founder & CEO in Megavisor
+Worked in various big and small tech companies and startups:
+- Current position - Tech lead / Solution Architect in Jam-do.org
+- Top position - Co-founder & CEO in Megavisor
 - Largest company - ABBY LS (UX engineer, frontend developer)
 - Most significant participation as employee - Uploadcare (Tech lead)
 - Most ambitious - Arrival (Lead frontend engineer)
