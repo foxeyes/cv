@@ -10,7 +10,7 @@ Buenos Aires, Argentina (GMT-3)
 
 ### Skills & Expertise:
 - Team leadership
-- Modern JavaScript, TypeScript 
+- Modern JavaScript, TypeScript
 - Widgets & micro-frontend architecture
 - Complex application architecture
 - Modern APIs in browsers and Node.js
