@@ -4,9 +4,9 @@
 Buenos Aires, Argentina (GMT-3)
 
 ### Languages
-- English
-- Russian
-- Spanish (learning)
+- English (fluent)
+- Spanish (learning in progress)
+- Russian (native)
 
 ### Skills & Expertise:
 - Team leadership
