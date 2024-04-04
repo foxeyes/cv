@@ -28,7 +28,9 @@ Buenos Aires, Argentina (GMT-3)
 - Effective coding: dependency management, resource consuming control, flexible architecture
 
 ### Open source
-- [Symbiote.js](https://symbiotejs.org/) - library for the meta-applications building
+- [Symbiote.js](https://symbiotejs.org/) - frontend library for the meta-applications
+
+Also, working on some perspective libraries which are on the way to release.
 
 ### Career
 Worked in various big and small tech companies and startups:
