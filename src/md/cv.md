@@ -26,9 +26,10 @@ Buenos Aires, Argentina (GMT-3)
 - Open Source projects management
 - Engineering culture maintenance
 - Effective coding: dependency management, resource consuming control, flexible architecture
+- R&D skills
 
 ### Open source
-- [Symbiote.js](https://symbiotejs.org/) - frontend library for the meta-applications
+- [Symbiote.js](https://symbiotejs.org/) - common purpose frontend library aimed to the complex meta-applications, widgets and micro-frontends.
 
 Also, working on some perspective libraries which are on the way to release.
 
