@@ -5,7 +5,7 @@ Buenos Aires, Argentina (GMT-3)
 
 ### Languages
 - English (fluent)
-- Spanish (learning in progress)
+- Spanish (in progress)
 - Russian (native)
 
 ### Skills & Expertise:
