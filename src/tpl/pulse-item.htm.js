@@ -1,5 +1,5 @@
 export default /*html*/ `
-<pulse-item-css>
+<a href="{{href}}" pulse-item>
   <div>
     <img src="{{image}}" />
   </div>
@@ -7,7 +7,6 @@ export default /*html*/ `
     <div date>{{date}}</div>
     <h3>{{title}}</h3>
     <p>{{summary}}</p>
-    <a href="{{href}}">Dive into details --&gt;</a>
   </div>
-</pulse-item-css>
+</a>
 `;

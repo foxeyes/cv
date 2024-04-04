@@ -25,7 +25,7 @@ export default /*html*/ `
       <div>
         <a back href="../">&lt;-- Go back</a>
       </div>
-      {{CONTENT}}
+      <article>{{CONTENT}}</article>
     </col-css>
   </section>
 </body>

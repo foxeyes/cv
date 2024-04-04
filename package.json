@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "node --loader ./loader.js ./build.js",
-    "watch": "node --loader ./loader.js ./watch.js"
+    "dev": "node --loader ./loader.js ./watch.js"
   },
   "author": "alex.sova@pm.me",
   "license": "MIT",

@@ -22,6 +22,7 @@ export default /*css*/ `
   --gap-max: 40px;
 
   --r1: 6px;
+  --r2: 3px;
 
   --col-w: 980px;
 }
@@ -51,10 +52,6 @@ a {
   color: currentColor;
 }
 
-p {
-  margin: 0;
-}
-
 blockquote {
   display: block;
   margin: 0;
@@ -63,6 +60,10 @@ blockquote {
   padding: var(--gap-mid);
   border-left: 2px solid currentColor;
   background-color: var(--clr-a4);
+
+  p {
+    margin: 0;
+  }
 }
 
 ul {

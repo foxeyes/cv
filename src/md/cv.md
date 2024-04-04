@@ -24,7 +24,7 @@ Buenos Aires, Argentina (GMT-3)
 - Dialog interfaces
 - 3D scanning technologies & photogrammetry
 - Open Source projects management
-- Engineering culture support
+- Engineering culture maintenance
 - Effective coding: dependency management, resource consuming control, flexible architecture
 
 ### Open source

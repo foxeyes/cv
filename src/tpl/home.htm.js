@@ -26,8 +26,8 @@ export default /*html*/ `
       <header>
         <div fox></div>
         <div>
-          <h1>Alex Matijašević</h1>
-          <h3>Tech lead / Full-stack / R&D</h3>
+          <h1>Alex Matiasevich</h1>
+          <h3>CTO / Full-stack / R&D lead</h3>
         </div>
       </header>
       {{CONTENT}}
