@@ -31,7 +31,7 @@ Buenos Aires, Argentina (GMT-3)
 ### Open source
 - [Symbiote.js](https://symbiotejs.org/) - common purpose frontend library aimed to the complex meta-applications, widgets and micro-frontends.
 
-Also, working on some perspective libraries which are on the way to release.
+Also, working on some perspective libraries which are on the way to the public release.
 
 ### Career
 Worked in various big and small tech companies and startups:
