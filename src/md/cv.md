@@ -1,4 +1,4 @@
-> More than 20 years of experience in web development, design and project management
+> More than 20 years of experience in web development, UI/UX design and project management
 
 ### Location
 Buenos Aires, Argentina (GMT-3)
@@ -18,12 +18,12 @@ Buenos Aires, Argentina (GMT-3)
 - Canvas API, SVG, WebGL
 - Web Components: Custom Elements, Shadow DOM, etc.
 - Isomorphic approaches
-- UX / UI Design
-- 2D & 3D graphics
+- UX/UI Design
+- 2D/3D graphics
 - Graph data structures
 - Dialog interfaces
 - 3D scanning technologies & photogrammetry
-- Open Source projects management
+- Open Source projects
 - Engineering culture maintenance
 - Effective coding: dependency management, resource consuming control, flexible architecture
 - R&D skills
