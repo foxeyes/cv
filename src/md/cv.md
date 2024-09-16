@@ -35,7 +35,7 @@ Also, working on some perspective libraries which are on the way to the public r
 
 ### Career
 Worked in various big and small tech companies and startups:
-- Current position - CTO in [Jam-do.org](https://jam-do.org/)
+- Current position - CEO in [rnd-pro.com](https://rnd-pro.com/)
 - Top position - Co-founder & CEO in [Megavisor](https://youtu.be/6CpdVcjtZoU)
 - Largest company - ABBY LS (UX engineer, frontend developer)
 - Most significant participation as employee - [Uploadcare](https://uploadcare.com/) (Tech lead)
@@ -56,7 +56,7 @@ Worked in various big and small tech companies and startups:
 
 ```js
 if (You.gotQuestions) {
-  mailTo('alex.sova.jam@gmail.com');
+  mailTo('alex.sova@pm.me');
 }
 
 // Open to discuss ambitious projects, 
