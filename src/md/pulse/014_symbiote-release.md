@@ -3,7 +3,7 @@
   "date": "18-01-2024",
   "title": "Symbiote.js 2.x is out now!",
   "summary": "Here we go!",
-  "image": "https://ucarecdn.com/44913731-0dd4-471b-bd4b-b94116e4f0f1/-/scale_crop/200x200/center/-/format/auto/",
+  "image": "https://rnd-pro.com/svg/symbiote/index.svg",
   "link": ""
 }
 ```

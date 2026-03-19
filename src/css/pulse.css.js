@@ -17,6 +17,11 @@ section {
   background-color: var(--clr-2);
   color: var(--clr-1);
   padding: var(--gap-max);
+
+  h2, h3 {
+    margin-top: var(--gap-max);
+    color: #0ff;
+  }
 }
 a[back] {
   display: inline-flex;
