@@ -30,7 +30,7 @@ Buenos Aires, Argentina (GMT-3)
 - Effective coding: dependency management, resource consuming control, flexible architecture
 - R&D skills
 
-### Open source
+### Open Source
 - [Symbiote.js](https://github.com/symbiotejs/symbiote.js) - common purpose frontend library aimed to the complex meta-applications, widgets, micro-frontends and agnostic UI-libraries.
 - [JSDA_Kit](https://github.com/rnd-pro/jsda-kit) - a comprehensive toolkit for building modern web applications with Static Site Generation (SSG), Server-Side Rendering (SSR), and dynamic servers.
 - [CIT: Cloud Images Toolkit](https://github.com/rnd-pro/cloud-images-toolkit) - a powerful toolkit for managing image collections directly in your codebase, with CDN integration, collaboration, image optimization and other advanced features.
@@ -46,7 +46,7 @@ Worked in various big and small tech companies and startups:
 - Most tricky - Dressformer (CTO, Tech lead)
 - Most fun - ZIQ Design (Art director)
 
-### Profiles
+### Public Profiles
 - [GitHub](https://github.com/foxeyes)
 - [LinkedIn](https://www.linkedin.com/in/alex-matiasevich)
 
