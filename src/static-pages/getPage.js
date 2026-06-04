@@ -10,6 +10,9 @@ const template = fs.readFileSync('./src/static-pages/page.tpl.html', 'utf8');
  * @typedef {Object} PageData
  * @property {String} [IMPORTMAP]
  * @property {String} TITLE
+ * @property {String} [DESCRIPTION]
+ * @property {String} [AUTHOR]
+ * @property {String} [KEYWORDS]
  * @property {String} [BASE_PATH]
  * @property {String} [CSS_PATH]
  * @property {String} [JS_PATH]
@@ -31,6 +34,9 @@ export async function getPage(pageData) {
     IMPORTMAP: pageData.IMPORTMAP || importmap,
     ICONS_LINK,
     TITLE: pageData.TITLE,
+    DESCRIPTION: pageData.DESCRIPTION || 'Alex Matiyasevich - R&D Engineer | Full-stack Developer | Open Source enthusias > Personal CV site',
+    AUTHOR: pageData.AUTHOR || 'Alex Matiyasevich',
+    KEYWORDS: pageData.KEYWORDS || 'CV, R&D, Symbiote.js, JSDA-Kit, CIT, rnd-pro.com',
     BASE_PATH: pageData.BASE_PATH || './',
     CSS_PATH: pageData.CSS_PATH || 'css/index.css',
     JS_PATH: pageData.JS_PATH || 'js/index.js',
