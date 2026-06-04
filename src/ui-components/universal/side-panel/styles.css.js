@@ -3,8 +3,8 @@ side-panel {
   position: fixed;
   top: 0;
   left: 0;
-  bottom: -60px;
-  min-height: 100dvh;
+  bottom: -40px;
+  min-height: calc(100dvh + 40px);
   display: flex;
   flex-flow: column;
   background-color: var(--clr-1);
@@ -65,7 +65,7 @@ side-panel {
     display: flex;
     justify-content: center;
     align-items: center;
-    top: 50%;
+    top: calc(50% - 40px);
     right: calc(-1 * var(--ui-size));
     width: var(--ui-size);
     height: var(--ui-size);

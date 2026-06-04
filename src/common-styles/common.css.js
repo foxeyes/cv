@@ -45,7 +45,7 @@ article {
   display: block;
   margin: auto;
   max-width: var(--col-w);
-  min-height: calc(100vh - var(--ui-size) * 2 - var(--gap-mid) * 4);
+  min-height: calc(100dvh - var(--ui-size) * 2 - var(--gap-mid) * 4);
   padding: var(--gap-max);
 
   blockquote {
