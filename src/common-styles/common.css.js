@@ -28,6 +28,7 @@ html, body {
   font-family: sans-serif;
   background-color: var(--clr-1);
   color: var(--clr-2);
+  overscroll-behavior: none;
 }
 
 body {

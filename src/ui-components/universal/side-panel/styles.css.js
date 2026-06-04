@@ -18,7 +18,8 @@ side-panel {
   border-right: var(--ui-size) solid var(--clr-2);
   cursor: pointer;
   background-image: url(https://ucarecdn.com/6a90e4f5-0860-4cce-80a5-c378de90b1ed/-/resize/500x500/-/format/auto/);
-  background-position: right 56% bottom 0;
+  background-size: 250px;
+  background-position: center center;
   background-repeat: no-repeat;
 );
 
