@@ -29,6 +29,7 @@ html, body {
   background-color: var(--clr-1);
   color: var(--clr-2);
   overscroll-behavior: none;
+  height: 100dvh;
 }
 
 body {
