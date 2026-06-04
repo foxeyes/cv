@@ -1,0 +1,8 @@
+import { getPage } from '../getPage.js';
+
+export default await getPage({
+  BASE_PATH: '../',
+  TITLE: 'Alex Matiyasevich - Downloads',
+  HEADER_CONTENT: 'Downloads',
+  MD_URL: './src/static-pages/downloads/index.md',
+});
