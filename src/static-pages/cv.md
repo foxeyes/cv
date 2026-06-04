@@ -3,11 +3,11 @@
 
 > More than **20 years** of experience in web development, UI/UX design and project management.
 > <br /><br />
-> Advanced hard, soft and leadership skills. Non toxic, positive thinking.
+> Advanced hard, soft and leadership skills. Non-toxic, positive thinking.
 > <br /><br />
-> Projects handling, from overall vision to certain builds.
+> Ideas from overall vision to specific implementations.
 > <br /><br />
-> Speaking technical language and business as well.
+> Comfortable with engineers, executives, and everyone in between.
 
 ## Location
 Buenos Aires, Argentina (GMT-3)
@@ -58,10 +58,10 @@ Yes, please.
 - [CIT: Cloud Images Toolkit](https://github.com/rnd-pro/cloud-images-toolkit) - a powerful toolkit for managing image collections directly in your codebase, with CDN integration, collaboration, image optimization and other advanced features.
 
 ## Career
-Worked in various big and small tech companies and startups. Here is some of them:
+Worked in various big and small tech companies and startups. Here are some of them:
 - Current position - Tech Lead / CTO in [rnd-pro.com](https://rnd-pro.com/)
 - Top position - Co-founder & CEO in [Megavisor](https://rnd-pro.com/projects/megavisor/)
-- Largest company - [ABBY](https://www.abbyy.com/) LS (Senior UX engineer, frontend developer)
+- Largest company - [ABBYY](https://www.abbyy.com/) LS (Senior UX engineer, frontend developer)
 - Most technical advance - [Uploadcare](https://uploadcare.com/) (Tech lead)
 - Most industrial - [Naviam, formerly ZNAPZ](https://www.naviam.io/)
 - Most ambitious - [Arrival](https://en.wikipedia.org/wiki/Arrival_(company)) (Lead frontend engineer)

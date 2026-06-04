@@ -1,1 +1,8 @@
-## Symbiote.js & WebMCP
+- [Symbiote.js & WebMCP (rnd-pro.com)](https://rnd-pro.com/pulse/symbiote-webmcp-support/)
+- [Symbiote.js v3.7.x (rnd-pro.com)](https://rnd-pro.com/pulse/symbiote-3-7/)
+- [How to interview (rnd-pro.com)](https://rnd-pro.com/pulse/how-to-interview/)
+- [R&D: How to? (rnd-pro.com)](https://rnd-pro.com/pulse/rnd-how-to/)
+- [JSDA-Kit - A Revolutionary Simple Approach to Build Modern Web (Dev.to)](https://dev.to/foxeyes/jsda-kit-a-revolutionary-simple-approach-to-build-modern-web-1dip)
+- [How to Build an Interactive 360 Product Viewer (Dev.to)](https://dev.to/foxeyes/how-to-build-an-interactive-360deg-product-viewer-20n6)
+- [Symbiote.js: superpowers for Web Components (Dev.to)](https://dev.to/foxeyes/symbiotejs-superpowers-for-web-components-1gid)
+- [What's Actually Wrong with Web Components? (Dev.to)](https://dev.to/foxeyes/whats-actually-wrong-with-web-components-3pjk)

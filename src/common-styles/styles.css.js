@@ -91,7 +91,7 @@ footer {
 
   &::before {
     margin-top: 1px;
-    margin-left: .3px;
+    margin-left: .2px;
     content: "${pic.content}";
     font-size: calc(var(--ui-size) * 0.5);
     letter-spacing: calc(var(--ui-size) * ${pic.lsFactor});
