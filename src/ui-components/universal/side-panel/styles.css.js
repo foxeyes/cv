@@ -15,7 +15,7 @@ side-panel {
   min-width: 240px;
   box-shadow: 0 0 6px 2px rgba(0, 0, 0, 0.2);
   transform: translateX(calc(-100% + var(--ui-size)));
-  transition: .3s;
+  transition: transform .3s ease-in-out;
   border-right: var(--ui-size) solid var(--clr-2);
   cursor: pointer;
   background-image: url(https://ucarecdn.com/6a90e4f5-0860-4cce-80a5-c378de90b1ed/-/resize/500x500/-/format/auto/);
