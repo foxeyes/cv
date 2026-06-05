@@ -1,3 +1,3 @@
-- [Alex_Matiyasevich_CV_EN.pdf](./downloads/pdf/Alex_Matiyasevich_CV_EN.pdf)
-- [Alex_Matiyasevich_CV_ES.pdf](./downloads/pdf/Alex_Matiyasevich_CV_ES.pdf)
-- [Alex_Matiyasevich_CV_RU.pdf](./downloads/pdf/Alex_Matiyasevich_CV_RU.pdf)
+- [Alex_Matiasevich_CV_EN.pdf](./downloads/pdf/Alex_Matiasevich_CV_EN.pdf)
+- [Alex_Matiasevich_CV_ES.pdf](./downloads/pdf/Alex_Matiasevich_CV_ES.pdf)
+- [Alex_Matiasevich_CV_RU.pdf](./downloads/pdf/Alex_Matiasevich_CV_RU.pdf)

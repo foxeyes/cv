@@ -18,7 +18,7 @@ const menuData = [
   //   path: './projects/',
   // },
   {
-    name: 'Download CV in PDF',
+    name: 'Downloads',
     path: './downloads/',
   },
 ];

@@ -1,4 +1,4 @@
-# Alex Matiyasevich
+# Alex Matiasevich
 ### R&D Engineer / Full-stack Developer / Open Source enthusiast
 
 > More than **20 years** of experience in web development, UI/UX design and project management.
