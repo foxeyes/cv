@@ -74,6 +74,9 @@ Worked in various big and small tech companies and startups. Here are some of th
 - [GitHub](https://github.com/foxeyes)
 - [X.com](https://x.com/Alex_Sova_dev)
 
+## Education
+- [NTSU](https://en.wikipedia.org/wiki/Novosibirsk_State_Technical_University) (Novosibirsk State Technical University, Russia)
+
 ## Hobbies
 - Motorcycle touring
 - Kayaking
