@@ -55,6 +55,10 @@ footer {
   border-radius: 50%;
   background-color: var(--clr-2);
   pointer-events: none;
+  background-image: url(https://ucarecdn.com/6a90e4f5-0860-4cce-80a5-c378de90b1ed/-/resize/500x500/-/format/auto/);
+  background-size: 100px 100px;
+  background-position: -27px -6px;
+  background-repeat: no-repeat;
 }
 
 ${codeStyles}
