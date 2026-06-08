@@ -41,6 +41,11 @@ body {
   }
 }
 
+a {
+  color: currentColor;
+  font-weight: bold;
+}
+
 article {
   display: block;
   margin: auto;
@@ -57,11 +62,6 @@ article {
     p {
       margin: 0;
     }
-  }
-
-  a {
-    color: currentColor;
-    font-weight: bold;
   }
 
   img[src^="https://rnd-pro.com/idn/"] {
