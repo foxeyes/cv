@@ -75,12 +75,20 @@ Worked in various big and small tech companies and startups. Here are some of th
 - [X.com](https://x.com/Alex_Sova_dev)
 
 ## Education
-- [NTSU](https://en.wikipedia.org/wiki/Novosibirsk_State_Technical_University) (Novosibirsk State Technical University, Russia)
+- [NTSU](https://en.wikipedia.org/wiki/Novosibirsk_State_Technical_University) (Novosibirsk State Technical University, Russia) -- Industrial Design
 
 ## Hobbies
 - Motorcycle touring
 - Kayaking
 - Outdoor programming
+
+## Summary
+
+I have broad and diverse experience beyond software development: fundraising, running my own startup, handling the legal aspects of digital services, and resolving operational issues end to end.
+
+I quickly understand new subject areas and can lead teams while maintaining a high level of engineering culture and a positive working atmosphere. The creative side of the work and the satisfaction of solving difficult problems are very important to me.
+
+I have experience with public speaking, meetups, and DevRel activities. I try to keep the bigger picture in view without losing sight of product, business, and technical context.
 
 ```js
 if (You.gotQuestions) {

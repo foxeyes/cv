@@ -59,28 +59,36 @@ Sí, por favor.
 
 ## Carrera
 Trabajé en varias empresas tecnológicas grandes y pequeñas, y startups. Aquí algunos ejemplos:
-- Posición actual — Tech Lead / CTO en [rnd-pro.com](https://rnd-pro.com/)
-- Mejor posición — Co-fundador & CEO en [Megavisor](https://rnd-pro.com/projects/megavisor/)
-- Empresa más grande — [ABBYY](https://www.abbyy.com/) LS (Ingeniero UX Senior, desarrollador frontend)
-- Más avanzada técnicamente — [Uploadcare](https://uploadcare.com/) (Tech lead)
-- Más industrial — [Naviam, formerly ZNAPZ](https://www.naviam.io/)
-- Más ambiciosa — [Arrival](https://en.wikipedia.org/wiki/Arrival_(company)) (Ingeniero frontend líder)
-- Más desafiante — [QUESTIONSTAR](https://www.questionstar.com/) (Desarrollador frontend líder / Ingeniero UX)
-- Más compleja — Dressformer (CTO, Tech lead)
-- Más divertida — ZIQ Design (Director de Arte)
+- Posición actual -- Tech Lead / CTO en [rnd-pro.com](https://rnd-pro.com/)
+- Mejor posición -- Co-fundador & CEO en [Megavisor](https://rnd-pro.com/projects/megavisor/)
+- Empresa más grande -- [ABBYY](https://www.abbyy.com/) LS (Ingeniero UX Senior, desarrollador frontend)
+- Más avanzada técnicamente -- [Uploadcare](https://uploadcare.com/) (Tech lead)
+- Más industrial -- [Naviam, formerly ZNAPZ](https://www.naviam.io/)
+- Más ambiciosa -- [Arrival](https://en.wikipedia.org/wiki/Arrival_(company)) (Ingeniero frontend líder)
+- Más desafiante -- [QUESTIONSTAR](https://www.questionstar.com/) (Desarrollador frontend líder / Ingeniero UX)
+- Más compleja -- Dressformer (CTO, Tech lead)
+- Más divertida -- ZIQ Design (Director de Arte)
 
 ## Perfiles Públicos
 - [LinkedIn](https://www.linkedin.com/in/alex-matiasevich)
 - [GitHub](https://github.com/foxeyes)
 - [X.com](https://x.com/Alex_Sova_dev)
 
-## Educaсión
-- [NTSU](https://en.wikipedia.org/wiki/Novosibirsk_State_Technical_University) (Novosibirsk State Technical University, Rusia)
+## Educación
+- [NTSU](https://en.wikipedia.org/wiki/Novosibirsk_State_Technical_University) (Novosibirsk State Technical University, Rusia) - Diseño Industrial
 
 ## Pasatiempos
 - Turismo en motocicleta
 - Kayak
 - Programación al aire libre
+
+## Resumen
+
+Tengo una experiencia amplia y diversa que va más allá del desarrollo de software: captación de inversión, gestión de mi propia startup, aspectos legales de servicios digitales y resolución de cuestiones operativas de principio a fin.
+
+Entiendo rápidamente nuevos dominios y puedo liderar equipos manteniendo un alto nivel de cultura de ingeniería y un ambiente de trabajo positivo. La parte creativa del trabajo y la satisfacción de resolver problemas difíciles son muy importantes para mí.
+
+Tengo experiencia en charlas públicas, meetups y actividades de DevRel. Intento mantener siempre la visión general sin perder de vista el contexto de producto, negocio y tecnología.
 
 ```js
 if (You.gotQuestions) {

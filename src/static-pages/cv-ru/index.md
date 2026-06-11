@@ -53,21 +53,21 @@
 - DevRel деятельность
 
 ## Open Source
-- [Symbiote.js](https://github.com/symbiotejs/symbiote.js) - универсальная frontend-библиотека для сложных мета-приложений, виджетов, микро-фронтендов и UI-библиотек-агностиков.
-- [JSDA_Kit](https://github.com/rnd-pro/jsda-kit) - комплексный инструментарий для создания современных веб-приложений с поддержкой SSG, SSR и динамических серверов.
-- [CIT: Cloud Images Toolkit](https://github.com/rnd-pro/cloud-images-toolkit) - мощный инструментарий для управления коллекциями изображений прямо в кодовой базе: интеграция с CDN, совместная работа, оптимизация изображений и другие расширенные возможности.
+- [Symbiote.js](https://github.com/symbiotejs/symbiote.js) -- универсальная frontend-библиотека для сложных мета-приложений, виджетов, микро-фронтендов и UI-библиотек-агностиков.
+- [JSDA_Kit](https://github.com/rnd-pro/jsda-kit) -- комплексный инструментарий для создания современных веб-приложений с поддержкой SSG, SSR и динамических серверов.
+- [CIT: Cloud Images Toolkit](https://github.com/rnd-pro/cloud-images-toolkit) -- мощный инструментарий для управления коллекциями изображений прямо в кодовой базе: интеграция с CDN, совместная работа, оптимизация изображений и другие расширенные возможности.
 
 ## Карьера
 Работал в различных крупных и небольших технологических компаниях и стартапах. Вот некоторые из них:
-- Текущая позиция - Tech Lead / CTO в [rnd-pro.com](https://rnd-pro.com/)
-- Самая высокая позиция - Сооснователь и CEO в [Megavisor](https://rnd-pro.com/projects/megavisor/)
-- Крупнейшая компания - [ABBYY](https://www.abbyy.com/) LS (Senior UX-инженер, frontend-разработчик)
-- Создание технологий с нуля - [Uploadcare](https://uploadcare.com/) (Tech lead)
-- Промышленность и ассет-менеджмент - [Naviam, formerly ZNAPZ](https://www.naviam.io/)
-- Наиболее амбициозная - [Arrival](https://en.wikipedia.org/wiki/Arrival_(company)) (Lead frontend engineer)
-- Сложная архитектура данных - [QUESTIONSTAR](https://www.questionstar.com/) (Lead frontend developer / UX engineer)
-- Решение нерешаемой задачи - Dressformer (CTO, Tech lead)
-- Самая весёлая работа - ZIQ Design (Art director)
+- Текущая позиция -- Tech Lead / CTO в [rnd-pro.com](https://rnd-pro.com/)
+- Самая высокая позиция -- Сооснователь и CEO в [Megavisor](https://rnd-pro.com/projects/megavisor/)
+- Крупнейшая компания -- [ABBYY](https://www.abbyy.com/) LS (Senior UX-инженер, frontend-разработчик)
+- Создание технологий с нуля -- [Uploadcare](https://uploadcare.com/) (Tech lead)
+- Промышленность и ассет-менеджмент -- [Naviam, formerly ZNAPZ](https://www.naviam.io/)
+- Наиболее амбициозная -- [Arrival](https://en.wikipedia.org/wiki/Arrival_(company)) (Lead frontend engineer)
+- Сложная архитектура данных -- [QUESTIONSTAR](https://www.questionstar.com/) (Lead frontend developer / UX engineer)
+- Решение нерешаемой задачи -- Dressformer (CTO, Tech lead)
+- Самая весёлая работа -- ZIQ Design (Art director)
 
 ## Публичные профили
 - [LinkedIn](https://www.linkedin.com/in/alex-matiasevich)
@@ -75,12 +75,20 @@
 - [X.com](https://x.com/Alex_Sova_dev)
 
 ## Образование
-- [НГТУ](https://en.wikipedia.org/wiki/Novosibirsk_State_Technical_University) (Новосибирский Государственный Технический Университет)
+- [НГТУ](https://en.wikipedia.org/wiki/Novosibirsk_State_Technical_University) (Новосибирский Государственный Технический Университет) -- Промышленный Дизайн
 
 ## Хобби
 - Мотопутешествия
 - Каякинг
 - Программирование на природе
+
+## Резюме
+
+У меня широкий и разносторонний опыт, выходящий за рамки разработки: привлечение инвестиций, управление собственным стартапом, юридические аспекты цифровых сервисов и решение операционных задач от начала до конца.
+
+Я быстро разбираюсь в новых предметных областях и умею руководить командами, сохраняя высокий уровень инженерной культуры и позитивную рабочую атмосферу. Для меня важны творческая составляющая работы и удовлетворение от решения сложных задач.
+
+У меня есть опыт публичных выступлений, участия в митапах и DevRel-активностях. Я стараюсь держать в фокусе общую картину, не теряя из виду продуктовый, бизнесовый и технический контекст.
 
 ```js
 if (You.gotQuestions) {
