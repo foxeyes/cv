@@ -1,5 +1,5 @@
 # Alex Matiasevich
-### R&D Engineer / Full-stack Developer / Open Source enthusiast
+### Technical Leader • R&D Engineer • Software Architect
 
 > More than **20 years** of experience in web development, UI/UX design and project management.
 > <br /><br />
@@ -23,7 +23,7 @@ Yes, please.
 - Spanish (intermediate)
 - Russian (native)
 
-## Skills & Expertise:
+## Skills & Experience:
 - Team leadership (up to 18 team-members)
 - Modern JavaScript, TypeScript
 - Modern frontend: frameworks, architecture, modern browser APIs

@@ -1,5 +1,5 @@
 # Alex Matiasevich
-### Ingeniero I+D / Desarrollador Full-stack / Entusiasta del Open Source
+### Líder técnico • Ingeniero de I+D • Arquitecto de software
 
 > Más de **20 años** de experiencia en desarrollo web, diseño UI/UX y gestión de proyectos.
 > <br /><br />
