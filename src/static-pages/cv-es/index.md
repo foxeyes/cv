@@ -46,6 +46,7 @@ Sí, por favor.
 - Desarrollo eficiente: gestión de dependencias, control del consumo de recursos, arquitecturas flexibles
 - Habilidades de I+D
 - Actividades de DevRel
+- Entrevistas técnicas, evaluación de candidatos
 
 ## Carrera
 Trabajé en distintas empresas tecnológicas, grandes y pequeñas, y en startups:
@@ -64,6 +65,7 @@ Esta es solo una parte de mi historia. Para mantenerlo breve, elegí las etapas 
 ## Logros
 - Creé productos complejos y plataformas técnicas desde cero: desde la arquitectura y las APIs hasta la experiencia de usuario y los procesos de desarrollo.
 - Lideré equipos de hasta 18 personas, desarrollando la cultura de ingeniería y un ambiente de trabajo saludable.
+- Formé equipos profesionales desde cero.
 - Trabajé en condiciones de alta incertidumbre: entendí rápidamente nuevos dominios, definí la dirección técnica y llevé las soluciones a resultados concretos.
 - Desarrollé frameworks, arquitecturas y herramientas especializadas para necesidades concretas del negocio.
 - Construí y optimicé procesos en el paradigma actual de IA.

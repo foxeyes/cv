@@ -46,6 +46,7 @@ Yes, please.
 - Effective development: dependency management, resource consumption control, flexible architectures
 - R&D skills
 - DevRel activities
+- Technical interviews, candidate assessment
 
 ## Career
 Worked in various large and small technology companies and startups:
@@ -64,6 +65,7 @@ This is only part of my story. For brevity, I selected the most meaningful stage
 ## Achievements
 - Built complex products and technical platforms from scratch: from architecture and APIs to user experience and development processes.
 - Led teams of up to 18 people while developing engineering culture and a healthy working atmosphere.
+- Built professional teams from scratch.
 - Worked in conditions of high uncertainty: quickly understood new domains, shaped technical direction and brought solutions to results.
 - Developed specialized frameworks, architectures and tools for specific business needs.
 - Built and optimized processes in the current AI paradigm.
