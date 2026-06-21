@@ -26,7 +26,7 @@
     "check:types": "npx tsc --noEmit",
     "copy-pdf": "cp -R ./src/static-pages/downloads/pdf/ ./dist/downloads/pdf/",
     "copy-robots": "cp ./src/static-pages/robots.txt ./dist/robots.txt",
-    "build": "npx jsda build && npm run copy-robots && npm run copy-pdf"
+    "build": "npx jsda build && npm run copy-robots && npm run copy-pdf && node ./scripts/llms.js"
   },
   "dependencies": {
     "jsda-kit": "^1.5.2"

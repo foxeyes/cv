@@ -56,11 +56,28 @@ article {
   blockquote {
     display: block;
     margin: 0;
+    margin-bottom: 2lh;
     padding: var(--gap-max);
     border: var(--gap-min) solid currentColor;
+    box-shadow: 5px 5px 0 currentColor;
 
     p {
       margin: 0;
+    }
+
+    > ul {
+      margin: 0 !important;
+
+      li {
+        margin: 0;
+        border: none;
+        padding-left: unset;
+        font-style: italic;
+
+        &:before {
+          display: none;
+        }
+      }
     }
   }
 

@@ -1,13 +1,9 @@
 # Alex Matiasevich
 ### Technical Leader • R&D Engineer • Software Architect
 
-> More than **20 years** of experience in web development, UI/UX design and project management.
-> <br /><br />
-> Advanced hard, soft and leadership skills. Non-toxic, positive thinking.
-> <br /><br />
-> Ideas from overall vision to specific implementations.
-> <br /><br />
-> Comfortable with engineers, executives, and everyone in between.
+> - T-shaped technical leader: deep engineering expertise combined with strategic thinking.
+> - More than **20 years** of experience in web development, UI/UX design and project management.
+> - Strong technical, communication and leadership skills. Positive thinking without toxicity.
 
 ## Location
 Buenos Aires, Argentina (GMT-3)
@@ -24,7 +20,7 @@ Yes, please.
 - Russian (native)
 
 ## Skills & Experience:
-- Team leadership (up to 18 team-members)
+- Team leadership
 - Modern JavaScript, TypeScript
 - Modern frontend: frameworks, architecture, modern browser APIs
 - Widgets & micro-frontends
@@ -39,7 +35,7 @@ Yes, please.
 - JAMStack, SSG, SSR, SPA
 - Canvas API, SVG, WebGL
 - Web Components: Custom Elements, Shadow DOM, etc.
-- Isomorphic approaches: same code at both sides
+- Isomorphic approaches: one codebase for client and server
 - Modern CSS and design systems
 - UX/UI Design
 - Design-in-code
@@ -47,22 +43,30 @@ Yes, please.
 - Graph data structures
 - Dialog interfaces
 - Open Source project maintenance
-- Engineering culture maintenance
-- Effective coding: dependency management, resource consuming control, flexible architectures
+- Effective development: dependency management, resource consumption control, flexible architectures
 - R&D skills
 - DevRel activities
 
 ## Career
-Worked in various big and small tech companies and startups. Here are some of them:
-- Current position -- Tech Lead / CTO in [rnd-pro.com](https://rnd-pro.com/)
-- Top position -- Co-founder & CEO in [Megavisor](https://rnd-pro.com/projects/megavisor/)
+Worked in various large and small technology companies and startups:
+- Current position -- Tech Lead / CTO at [rnd-pro.com](https://rnd-pro.com/)
+- Highest position -- Co-founder & CEO at [Megavisor](https://rnd-pro.com/projects/megavisor/)
 - Largest company -- [ABBYY](https://www.abbyy.com/) LS (Senior UX engineer, frontend developer)
-- Most technical advance -- [Uploadcare](https://uploadcare.com/) (Tech lead)
-- Most industrial -- [Naviam, formerly ZNAPZ](https://www.naviam.io/)
+- Building technology from scratch -- [Uploadcare](https://uploadcare.com/) (Tech lead)
+- Industry and asset management -- [Naviam, formerly ZNAPZ](https://www.naviam.io/)
 - Most ambitious -- [Arrival](https://en.wikipedia.org/wiki/Arrival_(company)) (Lead frontend engineer)
-- Most challenging -- [QUESTIONSTAR](https://www.questionstar.com/) (Lead frontend developer / UX engineer)
-- Most tricky -- Dressformer (CTO, Tech lead)
+- Complex data architecture -- [QUESTIONSTAR](https://www.questionstar.com/) (Lead frontend developer / UX engineer)
+- Solving an impossible-looking problem -- Dressformer (CTO, Tech lead)
 - Most fun -- ZIQ Design (Art director)
+
+This is only part of my story. For brevity, I selected the most meaningful stages at this moment. Each of them has its achievements, difficult decisions and context, which I am ready to discuss in more detail.
+
+## Achievements
+- Built complex products and technical platforms from scratch: from architecture and APIs to user experience and development processes.
+- Led teams of up to 18 people while developing engineering culture and a healthy working atmosphere.
+- Worked in conditions of high uncertainty: quickly understood new domains, shaped technical direction and brought solutions to results.
+- Developed specialized frameworks, architectures and tools for specific business needs.
+- Built and optimized processes in the current AI paradigm.
 
 ## Open Source
 - [Symbiote.js](https://github.com/symbiotejs/symbiote.js) -- common purpose frontend library aimed to the complex meta-applications, widgets, micro-frontends and agnostic UI-libraries.
@@ -83,10 +87,6 @@ Worked in various big and small tech companies and startups. Here are some of th
 - Outdoor programming
 
 ## Summary
-
-I have broad and diverse experience beyond software development: fundraising, running my own startup, handling the legal aspects of digital services, and resolving operational issues end to end.
-
-I quickly understand new subject areas and can lead teams while maintaining a high level of engineering culture and a positive working atmosphere. The creative side of the work and the satisfaction of solving difficult problems are very important to me.
 
 I have experience with public speaking, meetups, and DevRel activities. I try to keep the bigger picture in view without losing sight of product, business, and technical context.
 
