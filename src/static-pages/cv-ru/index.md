@@ -79,6 +79,7 @@
 - [LinkedIn](https://www.linkedin.com/in/alex-matiasevich)
 - [GitHub](https://github.com/foxeyes)
 - [X.com](https://x.com/Alex_Sova_dev)
+- [Public CV](https://foxeyes.github.io/cv/)
 
 ## Образование
 - [НГТУ](https://en.wikipedia.org/wiki/Novosibirsk_State_Technical_University) (Новосибирский Государственный Технический Университет) -- Промышленный Дизайн

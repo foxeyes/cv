@@ -79,6 +79,7 @@ Esta es solo una parte de mi historia. Para mantenerlo breve, elegí las etapas 
 - [LinkedIn](https://www.linkedin.com/in/alex-matiasevich)
 - [GitHub](https://github.com/foxeyes)
 - [X.com](https://x.com/Alex_Sova_dev)
+- [Public CV](https://foxeyes.github.io/cv/)
 
 ## Educación
 - [NTSU](https://en.wikipedia.org/wiki/Novosibirsk_State_Technical_University) (Novosibirsk State Technical University, Rusia) - Diseño Industrial
