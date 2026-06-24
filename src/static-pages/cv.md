@@ -2,7 +2,7 @@
 ### Technical Leader • R&D Engineer • Software Architect
 
 > - T-shaped technical leader: deep engineering expertise combined with strategic thinking.
-> - More than **20 years** of experience in web development, UI/UX design and project management.
+> - More than **10 years** of experience in web development, UI/UX design and project management.
 > - Strong technical, communication and leadership skills. Positive thinking without toxicity.
 
 ## Location

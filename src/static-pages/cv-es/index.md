@@ -2,7 +2,7 @@
 ### Líder técnico • Ingeniero de I+D • Arquitecto de software
 
 > - Líder técnico T-shaped: profunda experiencia de ingeniería combinada con pensamiento estratégico.
-> - Más de **20 años** de experiencia en desarrollo web, diseño UI/UX y gestión de proyectos.
+> - Más de **10 años** de experiencia en desarrollo web, diseño UI/UX y gestión de proyectos.
 > - Habilidades técnicas, comunicativas y de liderazgo avanzadas. Pensamiento positivo sin toxicidad.
 
 ## Ubicación
