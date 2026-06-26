@@ -34,7 +34,7 @@ export async function getPage(pageData) {
     IMPORTMAP: pageData.IMPORTMAP || importmap,
     ICONS_LINK,
     TITLE: pageData.TITLE,
-    DESCRIPTION: pageData.DESCRIPTION || 'Alex Matiasevich - R&D Engineer | Full-stack Developer | Open Source enthusias > Personal CV site',
+    DESCRIPTION: pageData.DESCRIPTION || 'Alex Matiasevich - R&D Engineer | Full-stack Developer | Open Source enthusiast > Personal CV site',
     AUTHOR: pageData.AUTHOR || 'Alex Matiasevich',
     KEYWORDS: pageData.KEYWORDS || 'CV, R&D, Symbiote.js, JSDA-Kit, CIT, rnd-pro.com',
     BASE_PATH: pageData.BASE_PATH || './',
