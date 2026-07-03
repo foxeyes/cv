@@ -25,8 +25,9 @@
   "scripts": {
     "check:types": "npx tsc --noEmit",
     "pdf": "node ./scripts/generate-pdfs.js",
-    "copy-robots": "cp ./src/static-pages/robots.txt ./dist/robots.txt",
-    "build": "npx jsda build && npm run copy-robots && npm run pdf && node ./scripts/llms.js"
+    "cp-downloads": "cp -R ./src/static-pages/downloads/pdf ./dist/downloads/pdf",
+    "cp-robots": "cp ./src/static-pages/robots.txt ./dist/robots.txt",
+    "build": "npx jsda build && npm run cp-robots && npm run cp-downloads && node ./scripts/llms.js"
   },
   "dependencies": {
     "jsda-kit": "^1.5.5"
