@@ -93,8 +93,3 @@ Esta es solo una parte de mi historia. Para mantenerlo breve, elegí las etapas 
 
 Tengo experiencia en charlas públicas, meetups y actividades de DevRel. Intento mantener siempre la visión general sin perder de vista el contexto de producto, negocio y tecnología.
 
-```js
-if (You.gotQuestions) {
-  mailTo('alex.m@rnd-pro.com');
-}
-```

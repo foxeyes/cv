@@ -93,8 +93,3 @@ This is only part of my story. For brevity, I selected the most meaningful stage
 
 I have experience with public speaking, meetups, and DevRel activities. I try to keep the bigger picture in view without losing sight of product, business, and technical context.
 
-```js
-if (You.gotQuestions) {
-  mailTo('alex.m@rnd-pro.com');
-}
-```
