@@ -2,7 +2,7 @@ import { icon } from '../../../icons/icon.js';
 
 const menuData = [
   {
-    name: 'About',
+    name: 'CV',
     path: './',
   },
   {
@@ -13,10 +13,10 @@ const menuData = [
     name: 'Social',
     path: './social/',
   },
-  // {
-  //   name: 'Projects',
-  //   path: './projects/',
-  // },
+  {
+    name: 'Gallery',
+    path: './gallery/',
+  },
   {
     name: 'Downloads',
     path: './downloads/',

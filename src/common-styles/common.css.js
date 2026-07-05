@@ -103,6 +103,11 @@ article {
     margin-top: 20px;
     margin-bottom: 20px;
 
+    &[cols] {
+      column-count: 2;
+      column-gap: var(--gap-max);
+    }
+
     li {
       position: relative;
       display: block;
@@ -130,10 +135,29 @@ article {
     border-collapse: collapse;
     margin-top: 20px;
     margin-bottom: 20px;
+    table-layout: fixed;
 
     th, td {
       padding: var(--gap-mid);
       border: var(--gap-min) solid currentColor;
+    }
+  }
+
+  h2, h3 {
+    margin-top: 4ch;
+  }
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--clr-1) var(--clr-2);
+}
+
+@media screen and (width < 800px) {
+  ul {
+    &[cols] {
+      column-count: unset !important;
+      column-gap: unset !important;
     }
   }
 }

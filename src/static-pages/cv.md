@@ -1,9 +1,9 @@
 # Alex Matiasevich
 ### Technical Leader • R&D Engineer • Software Architect
 
-> - T-shaped technical leader: deep engineering expertise combined with strategic thinking.
-> - More than **10 years** of experience in web development, UI/UX design and project management.
-> - Strong technical, communication and leadership skills. Positive thinking without toxicity.
+> - Deep engineering expertise combined with strategic thinking.
+> - More than **15 years** of experience in web development, UI/UX design and technical management.
+> - Strong technical, communication and leadership skills.
 
 ## Location
 Buenos Aires, Argentina (GMT-3)
@@ -19,56 +19,128 @@ Yes, please.
 - Spanish (intermediate)
 - Russian (native)
 
-## Skills & Experience:
-- Team leadership
-- Modern JavaScript, TypeScript
-- Modern frontend: frameworks, architecture, modern browser APIs
-- Widgets & micro-frontends
-- Complex application architecture
-- Node.js
-- PostgreSQL, MongoDB, Redis
-- RabbitMQ, Kafka
-- Docker, Kubernetes
-- Nginx, Apache
-- Cloudflare, AWS, Google Cloud, etc.
-- AI Engineering, MCP, WebMCP, etc.
-- JAMStack, SSG, SSR, SPA
-- Canvas API, SVG, WebGL
-- Web Components: Custom Elements, Shadow DOM, etc.
-- Isomorphic approaches: one codebase for client and server
-- Modern CSS and design systems
-- UX/UI Design
-- Design-in-code
-- 2D/3D graphics
-- Graph data structures
-- Dialog interfaces
-- Open Source project maintenance
-- Effective development: dependency management, resource consumption control, flexible architectures
-- R&D skills
-- DevRel activities
-- Technical interviews, candidate assessment
+## Skills & Technical Experience:
 
-## Career
-Worked in various large and small technology companies and startups:
-- Current position -- Tech Lead / CTO at [rnd-pro.com](https://rnd-pro.com/)
-- Highest position -- Co-founder & CEO at [Megavisor](https://rnd-pro.com/projects/megavisor/)
-- Largest company -- [ABBYY](https://www.abbyy.com/) LS (Senior UX engineer, frontend developer)
-- Building technology from scratch -- [Uploadcare](https://uploadcare.com/) (Tech lead)
-- Industry and asset management -- [Naviam, formerly ZNAPZ](https://www.naviam.io/)
-- Most ambitious -- [Arrival](https://en.wikipedia.org/wiki/Arrival_(company)) (Lead frontend engineer)
-- Complex data architecture -- [QUESTIONSTAR](https://www.questionstar.com/) (Lead frontend developer / UX engineer)
-- Solving an impossible-looking problem -- Dressformer (CTO, Tech lead)
-- Most fun -- ZIQ Design (Art director)
+<ul cols>
+  <li>Team leadership</li>
+  <li>Modern JavaScript, TypeScript</li>
+  <li>Modern frontend: frameworks, architecture, modern browser APIs</li>
+  <li>Widgets & micro-frontends</li>
+  <li>Complex application architecture</li>
+  <li>Node.js</li>
+  <li>PostgreSQL, MongoDB, Redis</li>
+  <li>RabbitMQ, Kafka</li>
+  <li>Docker, Kubernetes</li>
+  <li>Nginx, Apache</li>
+  <li>Cloudflare, AWS, Google Cloud, etc.</li>
+  <li>AI Engineering, MCP, WebMCP, etc.</li>
+  <li>JAMStack, SSG, SSR, SPA</li>
+  <li>Canvas API, SVG, WebGL</li>
+  <li>Web Components: Custom Elements, Shadow DOM, etc.</li>
+  <li>Isomorphic approaches: one codebase for client and server</li>
+  <li>Modern CSS and design systems</li>
+  <li>UX/UI Design</li>
+  <li>Design-in-code</li>
+  <li>2D/3D graphics</li>
+  <li>Graph data structures</li>
+  <li>Dialog interfaces</li>
+  <li>Open Source project maintenance</li>
+  <li>Effective development: dependency management, resource consumption control, flexible architectures</li>
+  <li>R&D skills</li>
+  <li>DevRel activities</li>
+  <li>Technical interviews, candidate assessment</li>
+</ul>
 
-This is only part of my story. For brevity, I selected the most meaningful stages at this moment. Each of them has its achievements, difficult decisions and context, which I am ready to discuss in more detail.
+## Career Highlights
 
-## Achievements
-- Built complex products and technical platforms from scratch: from architecture and APIs to user experience and development processes.
-- Led teams of up to 18 people while developing engineering culture and a healthy working atmosphere.
-- Built professional teams from scratch.
-- Worked in conditions of high uncertainty: quickly understood new domains, shaped technical direction and brought solutions to results.
-- Developed specialized frameworks, architectures and tools for specific business needs.
-- Built and optimized processes in the current AI paradigm.
+### [rnd-pro.com](https://rnd-pro.com/)
+
+| Period | Role |
+|:--:|:--:|
+| 2022 - present time | CTO, Tech Lead |
+
+- Led a team of experienced R&D engineers
+- Developed an architecture of complex decentralized messaging platform for clients. Implemented graph approach to on-the-fly granular data management. Implemented flexible mesh-instance update and version control strategy.
+- Created an Open Source conceptual basement for a bunch of solutions and internal projects
+- Developed AI-based development workflow and standards
+
+### [Uploadcare](https://uploadcare.com/)
+
+| Period | Role |
+|:--:|:--:|
+| 2020 - 2022 | Tech Lead |
+
+- Technical leadership of direction of one of the company key-products - File Uploader
+- Created a flexible architecture and solution constructor (library) for file uploading
+- Created comprehensive UI-framework for widgets and micro-frontends
+
+### ZNAPZ (now [Naviam](https://www.naviam.io/))
+
+| Period | Role |
+|:--:|:--:|
+| 2018 - 2020 | Senior Web Developer |
+
+- Was responsible for end-to-end development (from the design to final app) of several in-house products based on IBM Maximo as the backend, and performance middleware (Firebase):
+  - Infrastructure monitoring tool
+  - Asset management application for for educational institutions
+  - Asset ordering tool (shop) for Maximo users
+  - Information board for railway locomotive assembly lines
+- Implemented universal flexible GraphQL-like API for IBM Maximo EAM over the JSON RPC, with types and structured response schemas, using Maximo automation script. It fills the functional gap between built-in Maximo API versions and allows to retrieve requested data only (nothing excess)
+
+### [QUESTIONSTAR](https://www.questionstar.com/)
+
+| Period | Role |
+|:--:|:--:|
+| 2015 - 2018 | Lead frontend developer / UX engineer |
+
+- Developed complex online-survey editor from scratch
+  - Conditional logic survey flows
+  - Rich content editor
+- Developed all UI and UX
+- Created flexible graph-based data architecture with granular updates ability
+
+### Dressformer
+
+| Period | Role |
+|:--:|:--:|
+| 2015 - 2016 | Tech lead |
+
+The goal was to make possible online virtual fitting that shows clothes on mannequin configured to fit user's body sizes. 
+
+We had a physical simulation of cloth, but it was heavy in terms of resource consumption and was not scalable at all to be able be served as a web service. I came up with idea to create pre-rendered cloth shapes and to make quick interpolation between 3d mesh vertex positions to make final result close to real simulations. So we solved the impossible task and made quick online fitting possible.
+
+### [ABBYY](https://www.abbyy.com/) LS
+
+| Period | Role |
+|:--:|:--:|
+| 2014 - 2015 | Senior UX engineer, frontend developer |
+
+- Participated in development of translation service marketplace as a frontend developer
+- Developed UI/UX design for the new platform
+- Participated in UX-research, qualitative user research
+
+### [Megavisor](https://rnd-pro.com/projects/megavisor/)
+
+| Period | Role |
+|:--:|:--:|
+| 2011 - 2014 | Co-founder & CEO |
+
+- Got funding
+- Built the team from scratch
+- Led the team and product
+- Built an Interactive Media Publishing Platform
+
+### ZIQ Design
+
+| Period | Role |
+|:--:|:--:|
+| 2006 - 2011 | Art director, Owner |
+
+- Led a small team of 3D and graphical designers
+- Specialized on interactive design and web design
+- Created web-projects end-to-end
+
+> This is only part of my story. For brevity, I selected the most meaningful stages at this moment. Each of them has its achievements, difficult decisions and context, which I am ready to discuss in more detail.
 
 ## Open Source
 - [Symbiote.js](https://github.com/symbiotejs/symbiote.js) -- common purpose frontend library aimed to the complex meta-applications, widgets, micro-frontends and agnostic UI-libraries.
@@ -89,7 +161,4 @@ This is only part of my story. For brevity, I selected the most meaningful stage
 - Kayaking
 - Outdoor programming
 
-## Summary
-
-I have experience with public speaking, meetups, and DevRel activities. I try to keep the bigger picture in view without losing sight of product, business, and technical context.
 

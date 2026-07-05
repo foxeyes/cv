@@ -25,12 +25,10 @@
   "scripts": {
     "check:types": "npx tsc --noEmit",
     "pdf": "node ./scripts/generate-pdfs.js",
-    "cp-downloads": "cp -R ./src/static-pages/downloads/pdf ./dist/downloads/pdf",
-    "cp-robots": "cp ./src/static-pages/robots.txt ./dist/robots.txt",
-    "build": "npx jsda build && npm run cp-robots && npm run cp-downloads && node ./scripts/llms.js"
+    "build": "npx jsda build"
   },
   "dependencies": {
-    "jsda-kit": "^1.5.5"
+    "jsda-kit": "^1.6.0"
   },
   "devDependencies": {
     "@types/node": "^24.5.2",

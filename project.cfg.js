@@ -18,6 +18,28 @@ export default {
   static: {
     outputDir: './dist',
     sourceDir: './src/static-pages',
+    entryPatterns: [
+      'index.js',
+      'index.*.js',
+      'llms.txt.js',
+      '404.html.js',
+      'robots.txt.js',
+    ],
+    pdf: {
+      waitUntil: 'load',
+      outputDir: '',
+      launchOptions: {},
+      options: {
+        format: 'A4',
+        printBackground: true,
+        margin: {
+          top: '16mm',
+          right: '16mm',
+          bottom: '16mm',
+          left: '16mm',
+        },
+      },
+    },
   },
   ssr: {
     enabled: true,
