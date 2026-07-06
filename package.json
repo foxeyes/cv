@@ -25,7 +25,7 @@
   "scripts": {
     "check:types": "npx tsc --noEmit",
     "pdf": "node ./scripts/generate-pdfs.js",
-    "build": "npx jsda build"
+    "build": "npm run pdf && npx jsda build"
   },
   "dependencies": {
     "jsda-kit": "^1.6.0"

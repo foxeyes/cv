@@ -2,4 +2,4 @@
 set -e
 
 npm run pdf
-git add src/static-pages/downloads/pdf
+git add src/static-pages/downloads/copy-pdf

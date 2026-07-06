@@ -6,7 +6,7 @@ import { applyData } from 'jsda-kit/iso/applyData.js';
 import styles from '../src/static-pages/css/index.css.js';
 
 let template = fs.readFileSync('./src/static-pages/pdf.tpl.html', 'utf8');
-let outDir = './src/static-pages/downloads/pdf';
+let outDir = './src/static-pages/downloads/copy-pdf';
 
 let cvSources = [
   { mdPath: './src/static-pages/cv.md', title: 'Alex Matiasevich - CV (EN)', file: 'Alex_Matiasevich_CV_EN.pdf' },
