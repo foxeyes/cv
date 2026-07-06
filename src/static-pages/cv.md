@@ -1,18 +1,18 @@
 # Alex Matiasevich
 ### Technical Leader • R&D Engineer • Software Architect
 
-> - Deep engineering expertise combined with strategic thinking.
-> - More than **15 years** of experience in web development, UI/UX design and technical management.
-> - Strong technical, communication and leadership skills.
+> - I combine strategic product thinking, hands-on engineering depth, and clear communication across teams and stakeholders.
+> - More than **15 years** of experience across web development, UI/UX, product engineering, and technical leadership.
+> - Strong at aligning people, architecture, and execution to turn ambiguous ideas into shipped products.
 
 ## Location
 Buenos Aires, Argentina (GMT-3)
 
-Available for other time zones.
+Open to collaboration across time zones.
 
 ## Remote work
 
-Yes, please.
+Remote-first. Open to distributed teams.
 
 ## Languages
 - English (fluent, technical)
@@ -57,12 +57,12 @@ Yes, please.
 
 | Period | Role |
 |:--:|:--:|
-| 2022 - present time | CTO, Tech Lead |
+| 2022 - present | CTO, Tech Lead |
 
 - Led a team of experienced R&D engineers
-- Developed an architecture of complex decentralized messaging platform for clients. Implemented graph approach to on-the-fly granular data management. Implemented flexible mesh-instance update and version control strategy.
-- Created an Open Source conceptual basement for a bunch of solutions and internal projects
-- Developed AI-based development workflow and standards
+- Designed the architecture for a complex decentralized messaging platform. Introduced a graph-based approach for granular real-time data management and a flexible strategy for mesh-instance updates and version control.
+- Created the open-source foundation for multiple internal products and client-facing solutions
+- Developed AI-assisted engineering workflows and standards
 
 ### [Uploadcare](https://uploadcare.com/)
 
@@ -70,9 +70,9 @@ Yes, please.
 |:--:|:--:|
 | 2020 - 2022 | Tech Lead |
 
-- Technical leadership of direction of one of the company key-products - File Uploader
-- Created a flexible architecture and solution constructor (library) for file uploading
-- Created comprehensive UI-framework for widgets and micro-frontends
+- Led the technical direction of File Uploader, one of the company's key products
+- Designed a flexible architecture and composable library for file-upload workflows
+- Created a comprehensive UI framework for widgets and micro-frontends
 
 ### ZNAPZ (now [Naviam](https://www.naviam.io/))
 
@@ -80,12 +80,12 @@ Yes, please.
 |:--:|:--:|
 | 2018 - 2020 | Senior Web Developer |
 
-- Was responsible for end-to-end development (from the design to final app) of several in-house products based on IBM Maximo as the backend, and performance middleware (Firebase):
+- Delivered several in-house products end-to-end, from design to production, built on IBM Maximo with Firebase-based performance middleware:
   - Infrastructure monitoring tool
-  - Asset management application for for educational institutions
+  - Asset management application for educational institutions
   - Asset ordering tool (shop) for Maximo users
-  - Information board for railway locomotive assembly lines
-- Implemented universal flexible GraphQL-like API for IBM Maximo EAM over the JSON RPC, with types and structured response schemas, using Maximo automation script. It fills the functional gap between built-in Maximo API versions and allows to retrieve requested data only (nothing excess)
+  - Information board application for railway locomotive assembly lines
+- Implemented a flexible GraphQL-like API for IBM Maximo EAM over JSON-RPC, with types and structured response schemas, using Maximo automation scripts. The API filled functional gaps between built-in Maximo APIs and allowed clients to retrieve only the requested data, avoiding overfetching.
 
 ### [QUESTIONSTAR](https://www.questionstar.com/)
 
@@ -93,11 +93,11 @@ Yes, please.
 |:--:|:--:|
 | 2015 - 2018 | Lead frontend developer / UX engineer |
 
-- Developed complex online-survey editor from scratch
+- Developed a complex online-survey editor from scratch
   - Conditional logic survey flows
-  - Rich content editor
+  - Rich content editors
 - Developed all UI and UX
-- Created flexible graph-based data architecture with granular updates ability
+- Created a flexible graph-based data architecture with support for granular updates
 
 ### Dressformer
 
@@ -105,9 +105,9 @@ Yes, please.
 |:--:|:--:|
 | 2015 - 2016 | Tech lead |
 
-The goal was to make possible online virtual fitting that shows clothes on mannequin configured to fit user's body sizes. 
+The goal was to enable online virtual fitting: showing garments on a mannequin configured to match a user's body measurements.
 
-We had a physical simulation of cloth, but it was heavy in terms of resource consumption and was not scalable at all to be able be served as a web service. I came up with idea to create pre-rendered cloth shapes and to make quick interpolation between 3d mesh vertex positions to make final result close to real simulations. So we solved the impossible task and made quick online fitting possible.
+We had a physically based cloth simulation, but it was too resource-intensive to scale as a web service. I proposed an alternative approach: pre-rendering garment shapes and quickly interpolating between 3D mesh vertex positions to approximate the simulation result. This made real-time online fitting practical while preserving visual quality close to the original simulation.
 
 ### [ABBYY](https://www.abbyy.com/) LS
 
@@ -115,9 +115,9 @@ We had a physical simulation of cloth, but it was heavy in terms of resource con
 |:--:|:--:|
 | 2014 - 2015 | Senior UX engineer, frontend developer |
 
-- Participated in development of translation service marketplace as a frontend developer
+- Participated in the development of a translation-service marketplace as a frontend developer
 - Developed UI/UX design for the new platform
-- Participated in UX-research, qualitative user research
+- Participated in UX research and qualitative user research
 
 ### [Megavisor](https://rnd-pro.com/projects/megavisor/)
 
@@ -125,7 +125,7 @@ We had a physical simulation of cloth, but it was heavy in terms of resource con
 |:--:|:--:|
 | 2011 - 2014 | Co-founder & CEO |
 
-- Got funding
+- Secured funding
 - Built the team from scratch
 - Led the team and product
 - Built an Interactive Media Publishing Platform
@@ -136,16 +136,16 @@ We had a physical simulation of cloth, but it was heavy in terms of resource con
 |:--:|:--:|
 | 2006 - 2011 | Art director, Owner |
 
-- Led a small team of 3D and graphical designers
-- Specialized on interactive design and web design
-- Created web-projects end-to-end
+- Led a small team of 3D and graphic designers
+- Specialized in interactive design and web design
+- Created web projects end-to-end
 
-> This is only part of my story. For brevity, I selected the most meaningful stages at this moment. Each of them has its achievements, difficult decisions and context, which I am ready to discuss in more detail.
+> This is only part of my story. For brevity, I selected the most meaningful stages at this moment. Each of them includes achievements, difficult decisions, and context that I would be glad to discuss in more detail.
 
 ## Open Source
-- [Symbiote.js](https://github.com/symbiotejs/symbiote.js) -- common purpose frontend library aimed to the complex meta-applications, widgets, micro-frontends and agnostic UI-libraries.
+- [Symbiote.js](https://github.com/symbiotejs/symbiote.js) -- general-purpose frontend library for complex meta-applications, widgets, micro-frontends, and framework-agnostic UI libraries.
 - [JSDA_Kit](https://github.com/rnd-pro/jsda-kit) -- a comprehensive toolkit for building modern web applications with Static Site Generation (SSG), Server-Side Rendering (SSR), and dynamic servers.
-- [CIT: Cloud Images Toolkit](https://github.com/rnd-pro/cloud-images-toolkit) -- a powerful toolkit for managing image collections directly in your codebase, with CDN integration, collaboration, image optimization and other advanced features.
+- [CIT: Cloud Images Toolkit](https://github.com/rnd-pro/cloud-images-toolkit) -- a toolkit for managing image collections directly in your codebase, with CDN integration, collaboration, image optimization, and other advanced features.
 
 ## Public Profiles
 - [LinkedIn](https://www.linkedin.com/in/alex-matiasevich)
@@ -160,5 +160,3 @@ We had a physical simulation of cloth, but it was heavy in terms of resource con
 - Motorcycle touring
 - Kayaking
 - Outdoor programming
-
-

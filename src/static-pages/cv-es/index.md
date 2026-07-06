@@ -1,95 +1,162 @@
 # Alex Matiasevich
 ### Líder técnico • Ingeniero de I+D • Arquitecto de software
 
-> - Líder técnico T-shaped: profunda experiencia de ingeniería combinada con pensamiento estratégico.
-> - Más de **10 años** de experiencia en desarrollo web, diseño UI/UX y gestión de proyectos.
-> - Habilidades técnicas, comunicativas y de liderazgo avanzadas. Pensamiento positivo sin toxicidad.
+> - Combino pensamiento estratégico de producto, profundidad técnica práctica y comunicación clara con equipos y stakeholders.
+> - Más de **15 años** de experiencia en desarrollo web, UI/UX, ingeniería de producto y liderazgo técnico.
+> - Tengo facilidad para alinear personas, arquitectura y ejecución para convertir ideas ambiguas en productos en producción.
 
 ## Ubicación
 Buenos Aires, Argentina (GMT-3)
 
-Disponible para otras zonas horarias.
+Abierto a colaborar en distintas zonas horarias.
 
 ## Trabajo remoto
 
-Sí, por favor.
+Remote-first. Abierto a equipos distribuidos.
 
 ## Idiomas
 - Inglés (fluido, técnico)
 - Español (intermedio)
 - Ruso (nativo)
 
-## Habilidades y Experiencia:
-- Liderazgo de equipos
-- JavaScript moderno, TypeScript
-- Frontend moderno: frameworks, arquitectura, APIs de navegador modernas
-- Widgets y micro-frontends
-- Arquitectura de aplicaciones complejas
-- Node.js
-- PostgreSQL, MongoDB, Redis
-- RabbitMQ, Kafka
-- Docker, Kubernetes
-- Nginx, Apache
-- Cloudflare, AWS, Google Cloud, etc.
-- Ingeniería de IA, MCP, WebMCP, etc.
-- JAMStack, SSG, SSR, SPA
-- Canvas API, SVG, WebGL
-- Web Components: Custom Elements, Shadow DOM, etc.
-- Enfoques isomórficos: el mismo código en ambos lados
-- CSS moderno y sistemas de diseño
-- Diseño UX/UI
-- Diseño en código
-- Gráficos 2D/3D
-- Estructuras de datos en grafos
-- Interfaces de diálogo
-- Mantenimiento de proyectos Open Source
-- Desarrollo eficiente: gestión de dependencias, control del consumo de recursos, arquitecturas flexibles
-- Habilidades de I+D
-- Actividades de DevRel
-- Entrevistas técnicas, evaluación de candidatos
+## Habilidades y experiencia técnica:
 
-## Carrera
-Trabajé en distintas empresas tecnológicas, grandes y pequeñas, y en startups:
-- Puesto actual -- Tech Lead / CTO en [rnd-pro.com](https://rnd-pro.com/)
-- Puesto más alto -- Co-fundador & CEO en [Megavisor](https://rnd-pro.com/projects/megavisor/)
-- Empresa más grande -- [ABBYY](https://www.abbyy.com/) LS (Ingeniero UX Senior, desarrollador frontend)
-- Creación de tecnología desde cero -- [Uploadcare](https://uploadcare.com/) (Tech lead)
-- Industria y gestión de activos -- [Naviam, formerly ZNAPZ](https://www.naviam.io/)
-- La más ambiciosa -- [Arrival](https://en.wikipedia.org/wiki/Arrival_(company)) (Ingeniero frontend líder)
-- Arquitectura de datos compleja -- [QUESTIONSTAR](https://www.questionstar.com/) (Desarrollador frontend líder / Ingeniero UX)
-- Resolver un problema que parecía imposible -- Dressformer (CTO, Tech lead)
-- El trabajo más divertido -- ZIQ Design (Director de Arte)
+<ul cols>
+  <li>Liderazgo de equipos</li>
+  <li>JavaScript moderno, TypeScript</li>
+  <li>Frontend moderno: frameworks, arquitectura, APIs modernas del navegador</li>
+  <li>Widgets y micro-frontends</li>
+  <li>Arquitectura de aplicaciones complejas</li>
+  <li>Node.js</li>
+  <li>PostgreSQL, MongoDB, Redis</li>
+  <li>RabbitMQ, Kafka</li>
+  <li>Docker, Kubernetes</li>
+  <li>Nginx, Apache</li>
+  <li>Cloudflare, AWS, Google Cloud, etc.</li>
+  <li>Ingeniería de IA, MCP, WebMCP, etc.</li>
+  <li>JAMStack, SSG, SSR, SPA</li>
+  <li>Canvas API, SVG, WebGL</li>
+  <li>Web Components: Custom Elements, Shadow DOM, etc.</li>
+  <li>Enfoques isomórficos: una misma base de código para cliente y servidor</li>
+  <li>CSS moderno y sistemas de diseño</li>
+  <li>Diseño UX/UI</li>
+  <li>Diseño en código</li>
+  <li>Gráficos 2D/3D</li>
+  <li>Estructuras de datos en grafos</li>
+  <li>Interfaces conversacionales</li>
+  <li>Mantenimiento de proyectos Open Source</li>
+  <li>Desarrollo eficiente: gestión de dependencias, control del consumo de recursos, arquitecturas flexibles</li>
+  <li>Habilidades de I+D</li>
+  <li>Actividades de DevRel</li>
+  <li>Entrevistas técnicas, evaluación de candidatos</li>
+</ul>
 
-Esta es solo una parte de mi historia. Para mantenerlo breve, elegí las etapas más significativas en este momento. Detrás de cada una hay logros, decisiones difíciles y contexto, sobre los que estoy listo para conversar con más detalle.
+## Hitos de carrera
 
-## Logros
-- Creé productos complejos y plataformas técnicas desde cero: desde la arquitectura y las APIs hasta la experiencia de usuario y los procesos de desarrollo.
-- Lideré equipos de hasta 18 personas, desarrollando la cultura de ingeniería y un ambiente de trabajo saludable.
-- Formé equipos profesionales desde cero.
-- Trabajé en condiciones de alta incertidumbre: entendí rápidamente nuevos dominios, definí la dirección técnica y llevé las soluciones a resultados concretos.
-- Desarrollé frameworks, arquitecturas y herramientas especializadas para necesidades concretas del negocio.
-- Construí y optimicé procesos en el paradigma actual de IA.
+### [rnd-pro.com](https://rnd-pro.com/)
+
+| Periodo | Rol |
+|:--:|:--:|
+| 2022 - actualidad | CTO, Tech Lead |
+
+- Lideré un equipo de ingenieros de I+D con experiencia
+- Diseñé la arquitectura de una plataforma compleja de mensajería descentralizada. Introduje un enfoque basado en grafos para la gestión granular de datos en tiempo real y una estrategia flexible para actualizaciones de mesh-instances y control de versiones.
+- Creé la base open-source para múltiples productos internos y soluciones orientadas a clientes
+- Desarrollé flujos de trabajo y estándares de ingeniería asistidos por IA
+
+### [Uploadcare](https://uploadcare.com/)
+
+| Periodo | Rol |
+|:--:|:--:|
+| 2020 - 2022 | Tech Lead |
+
+- Lideré la dirección técnica de File Uploader, uno de los productos clave de la compañía
+- Diseñé una arquitectura flexible y una biblioteca componible para flujos de carga de archivos
+- Creé un framework UI integral para widgets y micro-frontends
+
+### ZNAPZ (ahora [Naviam](https://www.naviam.io/))
+
+| Periodo | Rol |
+|:--:|:--:|
+| 2018 - 2020 | Senior Web Developer |
+
+- Entregué varios productos internos end-to-end, desde el diseño hasta producción, construidos sobre IBM Maximo con middleware de rendimiento basado en Firebase:
+  - Herramienta de monitoreo de infraestructura
+  - Aplicación de gestión de activos para instituciones educativas
+  - Herramienta de pedido de activos para usuarios de Maximo
+  - Aplicación de tablero informativo para líneas de ensamblaje de locomotoras ferroviarias
+- Implementé una API flexible tipo GraphQL para IBM Maximo EAM sobre JSON-RPC, con tipos y esquemas de respuesta estructurados, usando scripts de automatización de Maximo. La API cubrió brechas funcionales de las APIs integradas de Maximo y permitió a los clientes recuperar solo los datos solicitados, evitando el overfetching.
+
+### [QUESTIONSTAR](https://www.questionstar.com/)
+
+| Periodo | Rol |
+|:--:|:--:|
+| 2015 - 2018 | Lead frontend developer / UX engineer |
+
+- Desarrollé desde cero un editor complejo de encuestas online
+  - Flujos de encuesta con lógica condicional
+  - Editores de contenido enriquecido
+- Desarrollé todo el UI y UX
+- Creé una arquitectura de datos flexible basada en grafos, con soporte para actualizaciones granulares
+
+### Dressformer
+
+| Periodo | Rol |
+|:--:|:--:|
+| 2015 - 2016 | Tech lead |
+
+El objetivo era hacer posible la prueba virtual online: mostrar prendas sobre un maniquí configurado según las medidas corporales del usuario.
+
+Teníamos una simulación física de telas, pero consumía demasiados recursos para escalar como servicio web. Propuse un enfoque alternativo: pre-renderizar formas de prendas e interpolar rápidamente las posiciones de los vértices del mesh 3D para aproximar el resultado de la simulación. Esto hizo práctica la prueba online en tiempo real, manteniendo una calidad visual cercana a la simulación original.
+
+### [ABBYY](https://www.abbyy.com/) LS
+
+| Periodo | Rol |
+|:--:|:--:|
+| 2014 - 2015 | Senior UX engineer, frontend developer |
+
+- Participé en el desarrollo de un marketplace de servicios de traducción como desarrollador frontend
+- Desarrollé el diseño UI/UX para la nueva plataforma
+- Participé en investigación UX e investigación cualitativa con usuarios
+
+### [Megavisor](https://rnd-pro.com/projects/megavisor/)
+
+| Periodo | Rol |
+|:--:|:--:|
+| 2011 - 2014 | Co-founder & CEO |
+
+- Conseguí financiación
+- Formé el equipo desde cero
+- Lideré el equipo y el producto
+- Construí una Interactive Media Publishing Platform
+
+### ZIQ Design
+
+| Periodo | Rol |
+|:--:|:--:|
+| 2006 - 2011 | Art director, Owner |
+
+- Lideré un pequeño equipo de diseñadores gráficos y 3D
+- Me especialicé en diseño interactivo y diseño web
+- Creé proyectos web end-to-end
+
+> Esta es solo una parte de mi historia. Para mantenerlo breve, elegí las etapas más significativas en este momento. Cada una incluye logros, decisiones difíciles y contexto que me gustaría conversar con más detalle.
 
 ## Open Source
-- [Symbiote.js](https://github.com/symbiotejs/symbiote.js) - biblioteca frontend de propósito general para meta-aplicaciones complejas, widgets, micro-frontends y librerías UI agnósticas.
-- [JSDA_Kit](https://github.com/rnd-pro/jsda-kit) - un kit de herramientas completo para construir aplicaciones web modernas con generación de sitios estáticos (SSG), renderizado en servidor (SSR) y servidores dinámicos.
-- [CIT: Cloud Images Toolkit](https://github.com/rnd-pro/cloud-images-toolkit) - un potente kit de herramientas para gestionar colecciones de imágenes directamente en el código fuente, con integración CDN, colaboración, optimización de imágenes y otras características avanzadas.
+- [Symbiote.js](https://github.com/symbiotejs/symbiote.js) -- biblioteca frontend de propósito general para meta-aplicaciones complejas, widgets, micro-frontends y bibliotecas UI agnósticas al framework.
+- [JSDA_Kit](https://github.com/rnd-pro/jsda-kit) -- un toolkit completo para construir aplicaciones web modernas con Static Site Generation (SSG), Server-Side Rendering (SSR) y servidores dinámicos.
+- [CIT: Cloud Images Toolkit](https://github.com/rnd-pro/cloud-images-toolkit) -- un toolkit para gestionar colecciones de imágenes directamente en el código fuente, con integración CDN, colaboración, optimización de imágenes y otras características avanzadas.
 
-## Perfiles Públicos
+## Perfiles públicos
 - [LinkedIn](https://www.linkedin.com/in/alex-matiasevich)
 - [GitHub](https://github.com/foxeyes)
 - [X.com](https://x.com/Alex_Sova_dev)
 - [Public CV](https://foxeyes.github.io/cv/)
 
 ## Educación
-- [NTSU](https://en.wikipedia.org/wiki/Novosibirsk_State_Technical_University) (Novosibirsk State Technical University, Rusia) - Diseño Industrial
+- [NTSU](https://en.wikipedia.org/wiki/Novosibirsk_State_Technical_University) (Novosibirsk State Technical University, Rusia) -- Diseño Industrial
 
 ## Pasatiempos
 - Turismo en motocicleta
 - Kayak
 - Programación al aire libre
-
-## Resumen
-
-Tengo experiencia en charlas públicas, meetups y actividades de DevRel. Intento mantener siempre la visión general sin perder de vista el contexto de producto, negocio y tecnología.
-

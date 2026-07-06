@@ -146,6 +146,12 @@ article {
   h2, h3 {
     margin-top: 4ch;
   }
+
+  hr {
+    border: none;
+    height: var(--gap-min);
+    background-color: var(--clr-2);
+  }
 }
 
 * {
