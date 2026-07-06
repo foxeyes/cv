@@ -13,10 +13,10 @@ const menuData = [
     name: 'Social',
     path: './social/',
   },
-  {
-    name: 'Gallery',
-    path: './gallery/',
-  },
+  // {
+  //   name: 'Gallery',
+  //   path: './gallery/',
+  // },
   {
     name: 'Downloads',
     path: './downloads/',

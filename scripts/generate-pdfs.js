@@ -40,6 +40,7 @@ li, blockquote, pre {
 }
 html, body {
   height: auto !important;
+  font-size: 14px;
 }
 article {
   min-height: auto !important;
@@ -71,7 +72,7 @@ for (const { mdPath, title, file } of cvSources) {
   });
 
   let page = await browser.newPage();
-  await page.setViewport({ width: 960, height: 1200 });
+  await page.setViewport({ width: 1200, height: 1200 });
   await page.setContent(html, { waitUntil: 'domcontentloaded' });
   await page.emulateMediaType('screen');
 
@@ -80,7 +81,7 @@ for (const { mdPath, title, file } of cvSources) {
     path: outPath,
     format: 'A4',
     printBackground: false,
-    margin: { top: '0.4in', bottom: '0.4in', left: '0.4in', right: '0.4in' },
+    margin: { top: '5mm', bottom: '5mm', left: '0mm', right: '5mm' },
     // Chrome's experimental tagged-PDF (accessibility structure tree) generation scrambles
     // the extracted/copy-pasted text order for this layout - plain text order is correct.
     tagged: false,
