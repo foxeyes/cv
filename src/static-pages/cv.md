@@ -1,9 +1,20 @@
 # Alex Matiasevich
-### Technical Leader • R&D Engineer • Software Architect
+### Technical Leader · R&D Engineer · Software Architect · Full-Stack Web Developer
+#### 20+ years of professional experience
 
-> - I combine strategic product thinking, hands-on engineering depth, and clear communication across teams and stakeholders.
-> - More than **15 years** of experience across web development, UI/UX, product engineering, and technical leadership.
-> - Strong at aligning people, architecture, and execution to turn ambiguous ideas into shipped products.
+<br>
+
+> ### What I bring
+> - Product vision and strategic thinking, informed by experience across multiple domains and at their intersections
+> - End-to-end ownership: I keep the full project context in view, set priorities, and revise them as new signals emerge
+> - Broad technical range: I stay current with emerging technology, work across stacks, and create new technologies or standards when a project calls for them
+> - A practical understanding of how engineering culture affects delivery efficiency and product quality
+> - The ability to establish effective AI-assisted development processes and keep project context coherent for both people and AI tools
+> - Clear, constructive communication and an ability to work well with people
+> - A focus on solving the underlying problem, not merely automating the existing process
+> - Comfort with uncertainty and a knack for finding unconventional solutions
+> - A strong design sensibility grounded in my background in UX/UI design
+> - A hands-on approach and a genuine enjoyment of coding, collaboration, and work beyond the boundaries of a formal role
 
 ## Location
 Buenos Aires, Argentina (GMT-3)
@@ -26,6 +37,7 @@ Remote-first. Open to distributed teams.
   <li>Modern JavaScript, TypeScript</li>
   <li>Modern frontend: frameworks, architecture, modern browser APIs</li>
   <li>Widgets & micro-frontends</li>
+  <li>Framework-agnostic frontend development</li>
   <li>Complex application architecture</li>
   <li>Node.js</li>
   <li>PostgreSQL, MongoDB, Redis</li>

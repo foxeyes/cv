@@ -1,9 +1,20 @@
 # Alex Matiasevich
-### Líder técnico • Ingeniero de I+D • Arquitecto de software
+### Líder técnico · Ingeniero de I+D · Arquitecto de software · Desarrollador web full-stack
+#### Más de 20 años de experiencia profesional
 
-> - Combino pensamiento estratégico de producto, profundidad técnica práctica y comunicación clara con equipos y stakeholders.
-> - Más de **15 años** de experiencia en desarrollo web, UI/UX, ingeniería de producto y liderazgo técnico.
-> - Tengo facilidad para alinear personas, arquitectura y ejecución para convertir ideas ambiguas en productos en producción.
+<br>
+
+> ### Lo que aporto
+> - Visión de producto y pensamiento estratégico, respaldados por experiencia en distintas áreas y en la intersección entre ellas
+> - Responsabilidad de punta a punta: mantengo una visión completa del contexto del proyecto, defino prioridades y las reviso cuando aparecen nuevas señales
+> - Amplia perspectiva tecnológica: me mantengo al día con las tecnologías emergentes, trabajo con distintos stacks y, cuando el proyecto lo requiere, creo nuevas tecnologías o defino estándares
+> - Conocimiento práctico de cómo la cultura de ingeniería afecta la eficiencia del desarrollo y la calidad del producto
+> - Capacidad para establecer procesos eficaces de desarrollo asistido por IA y mantener un contexto coherente del proyecto tanto para las personas como para las herramientas de IA
+> - Comunicación clara y constructiva, y facilidad para trabajar con personas
+> - Enfoque en resolver el problema de fondo, no solo en automatizar el proceso existente
+> - Comodidad ante la incertidumbre y capacidad para encontrar soluciones poco convencionales
+> - Criterio de diseño sólido basado en mi experiencia en UX/UI
+> - Sigo trabajando directamente con el código y disfruto de la programación, la colaboración y las tareas que exceden los límites formales de mi rol
 
 ## Ubicación
 Buenos Aires, Argentina (GMT-3)
@@ -26,6 +37,7 @@ Remote-first. Abierto a equipos distribuidos.
   <li>JavaScript moderno, TypeScript</li>
   <li>Frontend moderno: frameworks, arquitectura, APIs modernas del navegador</li>
   <li>Widgets y micro-frontends</li>
+  <li>Desarrollo frontend independiente del framework</li>
   <li>Arquitectura de aplicaciones complejas</li>
   <li>Node.js</li>
   <li>PostgreSQL, MongoDB, Redis</li>

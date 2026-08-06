@@ -65,17 +65,24 @@ article {
       margin: 0;
     }
 
+    h3 {
+      margin-top: 1ch;
+    }
+
     > ul {
       margin: 0 !important;
 
       li {
         margin: 0;
         border: none;
-        padding-left: unset;
+        padding-left: 30px;
         font-style: italic;
 
         &:before {
-          display: none;
+          position: absolute;
+          transform: translateY(-50%);
+          display: inline-flex;
+          content: "";
         }
       }
     }

@@ -1,3 +1,5 @@
+- [Chaos Engineering](https://rnd-pro.com/pulse/chaos-engineering/)
+- [Extensible Markdown](https://rnd-pro.com/pulse/ext-md/)
 - [Symbiote.js & WebMCP (rnd-pro.com)](https://rnd-pro.com/pulse/symbiote-webmcp-support/)
 - [Symbiote.js v3.7.x (rnd-pro.com)](https://rnd-pro.com/pulse/symbiote-3-7/)
 - [How to interview (rnd-pro.com)](https://rnd-pro.com/pulse/how-to-interview/)
