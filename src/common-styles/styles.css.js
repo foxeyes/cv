@@ -55,9 +55,9 @@ footer {
   border-radius: 50%;
   background-color: var(--clr-2);
   pointer-events: none;
-  background-image: url(https://ucarecdn.com/6a90e4f5-0860-4cce-80a5-c378de90b1ed/-/resize/500x500/-/format/auto/);
-  background-size: 100px 100px;
-  background-position: -27px -6px;
+  background-image: url(https://rnd-pro.com/idn/8376fadc-c650-4b74-ea9e-e4e35d545c00/320);
+  background-size: 100% 100%;
+  background-position: center center;
   background-repeat: no-repeat;
 }
 
