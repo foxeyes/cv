@@ -1,5 +1,5 @@
 # Alex Matiasevich
-### Líder técnico · Ingeniero de I+D · Arquitecto de software · Desarrollador web full-stack
+### Líder técnico / Ingeniero de I+D / Arquitecto de software / Desarrollador web full-stack
 #### Más de 20 años de experiencia profesional
 
 <br>

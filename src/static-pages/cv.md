@@ -1,5 +1,5 @@
 # Alex Matiasevich
-### Technical Leader · R&D Engineer · Software Architect · Full-Stack Web Developer
+### Technical Leader / R&D Engineer / Software Architect / Full-Stack Web Developer
 #### 20+ years of professional experience
 
 <br>
